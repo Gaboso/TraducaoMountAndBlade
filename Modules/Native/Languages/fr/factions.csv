@@ -1,12 +1,12 @@
 ﻿lockitver|DO NOT DELETE THIS LINE! 2698
 fac_no_faction|Nenhuma facção
 fac_commoners|Plebeus
-fac_outlaws|Desesperado
+fac_outlaws|Foras da lei
 fac_neutral|Neutro
 fac_innocents|Inocentes
 fac_merchants|Comerciantes
-fac_player_faction|Facção do Jogador
-fac_player_supporters_faction|Aliados do Jogador
+fac_player_faction|Facção do jogador
+fac_player_supporters_faction|Aliados do jogador
 fac_kingdom_1|Reino da Swadia
 fac_kingdom_2|Reino da Vaegirs
 fac_kingdom_3|Khergit Khanate
@@ -15,5 +15,5 @@ fac_kingdom_5|Reino da Rhodoks
 fac_kingdom_6|Sultanato de Sarranides
 fac_manhunters|Caçadores
 fac_deserters|Desertores
-fac_mountain_bandits|Bandidos da Montanha
-fac_forest_bandits|Bandidos da Floresta
+fac_mountain_bandits|Bandidos da montanha
+fac_forest_bandits|Bandidos da floresta

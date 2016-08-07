@@ -39,21 +39,21 @@ str_april_reg1_reg2|{reg1} abril {reg2}
 str_may_reg1_reg2|{reg1} maio {reg2}
 str_june_reg1_reg2|{reg1} junho {reg2}
 str_july_reg1_reg2|{reg1} julho {reg2}
-str_august_reg1_reg2|{reg1} o agosto {reg2}
+str_august_reg1_reg2|{reg1} agosto {reg2}
 str_september_reg1_reg2|{reg1} setembro {reg2}
-str_october_reg1_reg2|{reg1} o outubro {reg2}
+str_october_reg1_reg2|{reg1} outubro {reg2}
 str_november_reg1_reg2|{reg1} novembro {reg2}
 str_december_reg1_reg2|{reg1} dezembro {reg2}
 str_town_nighttime|Ele/isto está à noite atrasado e as pessoas honestas abandonaram as ruas.
 str_door_locked|A porta está fechada.
-str_castle_is_abondened|O castelo parece estar desocupado.
-str_town_is_abondened|O município não tem guarnição que protege isto.
+str_castle_is_abondened|O castelo parece estar abandonado.
+str_town_is_abondened|O município não tem guarnição para se proteger.
 str_place_is_occupied_by_player|O lugar está ocupado por nossas próprias tropas.
 str_place_is_occupied_by_enemy|O lugar está ocupado através de tropas hostis.
-str_place_is_occupied_by_friendly|O lugar está ocupado por aliados de tropas.
+str_place_is_occupied_by_friendly|O lugar está ocupado por tropas aliadas.
 str_do_you_want_to_retreat|Você vai querer que você dobre?
-str_give_up_fight|Abandonar a briga?
-str_do_you_wish_to_leave_tutorial|Você deseja deixar o software educacional?
+str_give_up_fight|Abandonar a luta?
+str_do_you_wish_to_leave_tutorial|Você deseja deixar o tutorial?
 str_do_you_wish_to_surrender|Você deseja o devolver?
 str_can_not_retreat|Impossível dobrar atrás, há alguns inimigos perto de!
 str_s1_joined_battle_enemy|{s1} uniu o inimigo na batalha.
@@ -70,10 +70,10 @@ str_order_attack_failure|Você assiste com batalhas de desespero isto durante o 
 str_order_attack_continue|Apesar de uma escaramuça prolongada, suas tropas não puderam ganhar uma vitória decisiva.
 str_join_order_attack_success|Seus homens lutam eficazmente aos lados de seus aliados, aquela parte a glória causada pela derrota de seus inimigos.
 str_join_order_attack_failure|Você assiste com batalhas de desespero isto no qual os inimigos trazem seus soldados abaixe e expila os poucos sobreviventes então em estado lastimável.
-str_join_order_attack_continue|Apesar de uma escaramuça prolongada, suas tropas nem esses de seus aliados puderam ganhar uma vitória decisiva no inimigo. 
-str_siege_defender_order_attack_success|Os homens da guarnição defendem as ameias deles/delas com destreza e coragem, enquanto acabando com a agressão do inimigo e transformando a derrota habilmente em uma derrota crescida. 
+str_join_order_attack_continue|Apesar de uma escaramuça prolongada, suas tropas nem esses de seus aliados puderam ganhar uma vitória decisiva no inimigo.
+str_siege_defender_order_attack_success|Os homens da guarnição defendem as ameias deles/delas com destreza e coragem, enquanto acabando com a agressão do inimigo e transformando a derrota habilmente em uma derrota crescida.
 str_siege_defender_order_attack_failure|A agressão se transforma depressa em banho de sangue. Os ímpetos de coragem não têm sucesso a nada; a guarnição ultrapassada não pode defender as ameias e o inimigo passa todo último defensor com o transcurso da espada.
-str_siege_defender_order_attack_continue|Tentar ataques assassinos a repetição nas ameias pára o atacante de ganhar a terra, porém muitos muitos inimigos permanecem em defesa poder fingir a uma verdadeira vitória. 
+str_siege_defender_order_attack_continue|Tentar ataques assassinos a repetição nas ameias pára o atacante de ganhar a terra, porém muitos muitos inimigos permanecem em defesa poder fingir a uma verdadeira vitória.
 str_hero_taken_prisoner|{s1} de {s3} foi o prisioneiro feito por {s2}.
 str_hero_freed|{s1} de {s3} foi livrado de seu cativeiro por {s2}.
 str_center_captured|{s2} levou {s1} de {s3}.
@@ -85,7 +85,7 @@ str_party_gained_morale|Seu grupo ganha {reg1} em estado de mente.
 str_party_lost_morale|Seu grupo perde {reg1} em estado de mente.
 str_other_party_gained_morale|{s1} ganha {reg1} em estado de mente.
 str_other_party_lost_morale|{s1} perde {reg1} em estado de mente.
-str_qst_follow_spy_noticed_you|O espião o marcou! Ele/isto tenta para correr fora! 
+str_qst_follow_spy_noticed_you|O espião o marcou! Ele/isto tenta para correr fora!
 str_father|pai
 str_husband|marido
 str_wife|esposa
@@ -98,35 +98,35 @@ str_he|ele
 str_she|o dela
 str_s3s_s2|{s2} de {s3}.
 str_s5_is_s51|{s5} é {s51}.
-str_s5_is_the_ruler_of_s51|{s5} é o regente de {s51}. 
-str_s5_is_a_nobleman_of_s6|{s5} é um nobre de {s6}. 
-str_relation_mnus_100|Repugnante 
-str_relation_mnus_90|Repugnante 
-str_relation_mnus_80|Repugnante 
+str_s5_is_the_ruler_of_s51|{s5} é o regente de {s51}.
+str_s5_is_a_nobleman_of_s6|{s5} é um nobre de {s6}.
+str_relation_mnus_100|Repugnante
+str_relation_mnus_90|Repugnante
+str_relation_mnus_80|Repugnante
 str_relation_mnus_70|Aversives
 str_relation_mnus_60|Aversives
-str_relation_mnus_50| Hostil
-str_relation_mnus_40|  Briguento
-str_relation_mnus_30|    Malévolo
-str_relation_mnus_20|      Tempo
-str_relation_mnus_10|        Mitigado
-str_relation_plus_0|         Neutro
-str_relation_plus_10|          Cooperativas
-str_relation_plus_20|           Bem-vindo
-str_relation_plus_30|            Favorável
-str_relation_plus_40|             Sincero
-str_relation_plus_50|              Amigável
-str_relation_plus_60|               Entendendo
-str_relation_plus_70|                 Excelente
-str_relation_plus_80|                  Ideal
-str_relation_plus_90|                   Excepcional
+str_relation_mnus_50|Hostil
+str_relation_mnus_40|Briguento
+str_relation_mnus_30|Malévolo
+str_relation_mnus_20|Tempo
+str_relation_mnus_10|Mitigado
+str_relation_plus_0|Neutro
+str_relation_plus_10|Cooperativas
+str_relation_plus_20|Bem-vindo
+str_relation_plus_30|Favorável
+str_relation_plus_40|Sincero
+str_relation_plus_50|Amigável
+str_relation_plus_60|Entendendo
+str_relation_plus_70|Excelente
+str_relation_plus_80|Ideal
+str_relation_plus_90|Excepcional
 str_relation_mnus_100_ns|{s60} mantém com você das relações repugnantes.
 str_relation_mnus_90_ns|{s60} mantém com você das relações repugnantes.
 str_relation_mnus_80_ns|{s60} mantém com você das relações repugnantes.
 str_relation_mnus_70_ns|{s60} mantém com você do aversives de relações.
 str_relation_mnus_60_ns|{s60} mantém com você do aversives de relações.
 str_relation_mnus_50_ns|{s60} mantém com você das relações hostis.
-str_relation_mnus_40_ns|{s60} mantém com você das relações briguentas. 
+str_relation_mnus_40_ns|{s60} mantém com você das relações briguentas.
 str_relation_mnus_30_ns|{s60} mantém com você das relações malévolas.
 str_relation_mnus_20_ns|{s60} mantém com você das relações tensas.
 str_relation_mnus_10_ns|{s60} mantém com você das relações mitigadas.
@@ -140,7 +140,7 @@ str_relation_plus_60_ns|{s60} mantém com você das relações compreensivas.
 str_relation_plus_70_ns|{s60} mantém com você das relações excelentes.
 str_relation_plus_80_ns|{s60} mantém com você das relações ideais.
 str_relation_plus_90_ns|{s60} mantém com você das relações excepcionais.
-str_relation_reg1| Relação: {reg1}
+str_relation_reg1|Relação: {reg1}
 str_center_relation_mnus_100|Os votos de pessoas você um ódio extremo
 str_center_relation_mnus_90|Os votos de pessoas você um intenso ódio
 str_center_relation_mnus_80|Os votos de pessoas você um ódio feroz
@@ -150,7 +150,7 @@ str_center_relation_mnus_50|As pessoas mantêm com você de relações extremame
 str_center_relation_mnus_40|As pessoas mantêm com você das relações muito hostis
 str_center_relation_mnus_30|As pessoas são hostis a sua consideração
 str_center_relation_mnus_20|As pessoas estão contra você
-str_center_relation_mnus_10|As pessoas o opõem 
+str_center_relation_mnus_10|As pessoas o opõem
 str_center_relation_plus_0|As pessoas são neutras a sua consideração
 str_center_relation_plus_10|As pessoas são tolerantes a sua consideração
 str_center_relation_plus_20|As pessoas são cooperativas com você
@@ -159,7 +159,7 @@ str_center_relation_plus_40|As pessoas mantêm com você das relações sinceras
 str_center_relation_plus_50|As pessoas mantêm com você das relações muito sinceras
 str_center_relation_plus_60|As pessoas são fiéis para você
 str_center_relation_plus_70|As pessoas são extremamente fiéis para você
-str_center_relation_plus_80|As pessoas mantêm com você das relações excepcionais 
+str_center_relation_plus_80|As pessoas mantêm com você das relações excepcionais
 str_center_relation_plus_90|A populaça mantém totalmente com você das relações excepcional
 str_town_prosperity_0|A pobreza do município de {s60} é insuportável.
 str_town_prosperity_10|O município esquálido de {s60} é toda a caixa forte anime.
@@ -226,7 +226,7 @@ str_master_weaver|Mr. o tecedor
 str_master_dyer|Mr. o tintureiro
 str_war_report_minus_4|nós estamos a ponto de perder a guerra
 str_war_report_minus_3|a situação parece pequeno encorajando
-str_war_report_minus_2|nós não estamos em posição muito boa 
+str_war_report_minus_2|nós não estamos em posição muito boa
 str_war_report_minus_1|nós podemos ganhar a guerra novamente se nós ajuntarmos
 str_war_report_0|nossas forças e esses do inimigo são equilibrados
 str_war_report_plus_1|nós temos sorte para ganhar a guerra
@@ -292,27 +292,27 @@ str_surname_18|{s50} de Hanun
 str_surname_19|{s50} de Saren
 str_surname_20|{s50} de Tosdhar
 str_surname_21|{s50} pernas Longas
-str_surname_22|{s50} o magro 
-str_surname_23|{s50} Barba sedosa 
+str_surname_22|{s50} o magro
+str_surname_23|{s50} Barba sedosa
 str_surname_24|{s50} o Fraco
-str_surname_25|{s50} a pessoa Pobre 
+str_surname_25|{s50} a pessoa Pobre
 str_surname_26|{s50} Cicatrizou isto
-str_surname_27|{s50} o Justo 
-str_surname_28|{s50} o Terrificando 
-str_surname_29|{s50} o Vermelho 
-str_surname_30|{s50} o Preto 
-str_surname_31|{s50} o Gigante 
-str_surname_32|{s50} o Sonhador  
+str_surname_27|{s50} o Justo
+str_surname_28|{s50} o Terrificando
+str_surname_29|{s50} o Vermelho
+str_surname_30|{s50} o Preto
+str_surname_31|{s50} o Gigante
+str_surname_32|{s50} o Sonhador
 str_surname_33|{s50} o audacioso
-str_surname_34|{s50} o Valente 
-str_surname_35|{s50} o Enganador 
-str_surname_36|{s50} o Covarde 
-str_surname_37|{s50} o Fûté 
-str_surname_38|{s50} o Rápido 
-str_surname_39|{s50} o Trovador 
-str_surname_40|{s50} o impetuoso 
-str_surname_41|{s50} a Cabeça queimada 
-str_surnames_end|fim dos apelidos 
+str_surname_34|{s50} o Valente
+str_surname_35|{s50} o Enganador
+str_surname_36|{s50} o Covarde
+str_surname_37|{s50} o Fûté
+str_surname_38|{s50} o Rápido
+str_surname_39|{s50} o Trovador
+str_surname_40|{s50} o impetuoso
+str_surname_41|{s50} a Cabeça queimada
+str_surnames_end|fim dos apelidos
 str_number_of_troops_killed_reg1|Número de tropas matou: {reg1}
 str_number_of_troops_wounded_reg1|Número de tropas ferido: {reg1}
 str_number_of_own_troops_killed_reg1|Número de aliados de tropas matou: {reg1}
@@ -323,13 +323,13 @@ str_casualty_display|Suas perdas: {s10} ^ Perdas hostis: {s11} {s12}
 str_casualty_display_hp|Um dano o retira {reg1} ponto de vida.
 str_quest_log_updated|O jornal de indagações foi posto atualizado...
 str_banner_selection_text|A pessoa o deu o direito para levar uma bandeira. Sua bandeira representará seu estatuto e o honrará. Que bandeira quer você para escolher?
-str_retirement_text_1|Você percebe muito tarde que sua fortuna não será eterna. Não era muito tempo necessário você desperdiçar o poucos de dinheiro que você levou a dificuldade para economizar e vários de suas tentativas desesperadas para começar a aventura novamente era infrutífero. Você termina como mendigo para {s9}, vivendo de esmolas e a caridade da igreja. 
+str_retirement_text_1|Você percebe muito tarde que sua fortuna não será eterna. Não era muito tempo necessário você desperdiçar o poucos de dinheiro que você levou a dificuldade para economizar e vários de suas tentativas desesperadas para começar a aventura novamente era infrutífero. Você termina como mendigo para {s9}, vivendo de esmolas e a caridade da igreja.
 str_retirement_text_2|Você percebe muito tarde que sua fortuna não será eterna. Não era muito tempo necessário você desperdiçar o poucos de dinheiro que você levou a dificuldade para economizar. Quando seu último negador dilapidado, você começa a vida de criminoso nas ruelas de {s9}, usando sua habilidade a détrousser as pessoas pequenas ganhar sua ninharia.
 str_retirement_text_3|Você percebe muito tarde que sua fortuna não será eterna. Não era muito tempo necessário você desperdiçar o poucos de dinheiro que você levou a dificuldade para economizar. Então, você acaba limpando fora as tavernas sem uma moeda mas enquanto adquirindo seus óculos dos chefes indulgentes enquanto os entretendo de suas façanhas de guerra que ninguém já leva sério.
 str_retirement_text_4|A reserva de dinheiro que você tinha posto descargas laterais depressa isto, mas você tem sucesso todos o mesmo juntando alguns suficientemente para fazer a aquisição de uma terra para os ambientes da aldeia de {s7}. Por cima lá, você vive em fazendeiro grátis e muito depressa você começa a atrair {de possíveis esposas/de possíveis cônjuges}. Com tempo, consideram os aldeões você gosta de um herói local. Um lugar de honra sempre é adquirido você na hora dos banquetes e suas façanhas está novamente e novamente relacionado nas hospedarias e as tavernas de forma que as crianças pode se lembrar de você sempre.
 str_retirement_text_5|A reserva de dinheiro que você tinha posto descargas laterais depressa isto, mas você tem bastante para fazer a aquisição de uma taverna para {s9}. Embora au primeiro primeiro, os habitantes da região são desconfiados a sua consideração, eles o aceitam entre eles. Como as passagens de tempo, sua taverna por completo crescimento se torna um lugar de se encontrar ideal como também um quarto de banquetes popular. Pessoas em todos lugares de para pensão completa graças a seu renome sem faille e para as narrações épicas de suas aventuras. Pessoas longe de provar sua cozinha, aquele diz excelente e escutar as narrações épicas da vida de seu aventureiro que você nunca não conta.
 str_retirement_text_6|Você economizou desde o princípio com sabedoria sua carreira. Daqui em diante, sua fortuna juntada a sua inteligência lhe permite fazer investimentos iluminados para fortalecer seu futuro. Depois de ter comprado vários comércios e armazéns para {s9}, seu discernimento faz de você um dos comerciantes mais importantes do município e logo você se torna como muito para seu império comercial como para seus fatos de armas muito próspero, conhecido.
-str_retirement_text_7|Você é um dono nobre, não obstante, de grau fraco e seu futuro é toda a caixa forte garantida. Você é resolvido em seu feudo para {s7}, administrando as aldeias e os campos deles/delas, enquanto devolvendo a justiça nos cursos locais e enchendo suas obrigações para seu suserano. De tempo para outros, seu suserano chama em você reunir e ordenar os exércitos de seus países mas estes períodos é breve e você nunca recupera realmente o gosto de suas aventuras de ano passado. Você já fez fortuna. Com seu próprio solar e seus bens, você tem só poucos desejos que não podem ser concedidos graças a suas rendas e suas riquezas pessoais. 
+str_retirement_text_7|Você é um dono nobre, não obstante, de grau fraco e seu futuro é toda a caixa forte garantida. Você é resolvido em seu feudo para {s7}, administrando as aldeias e os campos deles/delas, enquanto devolvendo a justiça nos cursos locais e enchendo suas obrigações para seu suserano. De tempo para outros, seu suserano chama em você reunir e ordenar os exércitos de seus países mas estes períodos é breve e você nunca recupera realmente o gosto de suas aventuras de ano passado. Você já fez fortuna. Com seu próprio solar e seus bens, você tem só poucos desejos que não podem ser concedidos graças a suas rendas e suas riquezas pessoais.
 str_retirement_text_8|Ele/isto é indisputável que você você é muito bem puxado disto ao nível pessoal. Seus numerosos bens e tesouros de aventuras representam bastante para lhe garantir uma vida macia e confortável pelo permanecer de seus dias. Enquanto se aposentando como nobre para {8}, você troca a aventura para as políticas e muito depressa, você se impõe como poder no reino de seu suserano. Os anos para seguir deixaram prediga o melhor e você não arrisca para o aborrecer anular os enredos, caçar em suas próprias florestas e festejar enquanto relacionando mil e a pessoa explora à briga.
 str_retirement_text_9|Em recompensa de seus serviços bons e fiéis, seu suserano ordena a hereditariedade de seu título, enquanto lhe permitindo assim alcançar as esferas altas da nobreza em reino. Pouco tempo depois de, você se torna o barão de {7}, então você une os conselheiros e ajuda de acampamento se aproxime de seu suserano. Seu renome o dá uma influência e uma persuasão sutil como também um manifesto poder político. Daqui em diante você vende os dias no jogo do poder, enquanto administrando seus imensos feudos e enquanto relacionando com orgulho suas aventuras de ano passado.
 str_retirement_text_10|Embora você tem origens modestas, seu suserano o segura em estima alta. Um choque onda cruzes reino quando o confere o título hereditário de {conta/condessa} de {s9}. Lá você está à cabeça de feudos vastos e uma imensa fortuna. Você se torna o conselheiro mais fiel de seu suserano, quase seu igual, muito depressa com moedas sua responsabilidade uma parte boa de reino. Você se senta em um trono em um palácio majestoso e é um das faces principais do país.
@@ -358,13 +358,13 @@ str_content|feliz de
 str_concerned|interessado por
 str_not_happy|longe de estar satisfeito de
 str_miserable|honestamente espantado por
-str_morale_reg1| Estado de mente: {reg1}
-str_bar_enthusiastic|                   Entusiasta
-str_bar_content|              Feliz
-str_bar_weary|          Cansado
-str_bar_disgruntled|     Entorpeça
-str_bar_miserable|  Infeliz
-str_here_plus_space|aqui 
+str_morale_reg1|Estado de mente: {reg1}
+str_bar_enthusiastic|Entusiasta
+str_bar_content|Feliz
+str_bar_weary|Cansado
+str_bar_disgruntled|Entorpeça
+str_bar_miserable|Infeliz
+str_here_plus_space|Aqui
 str_npc1_intro|Ei o viajante, você não procuraria um perseguidor, por casualidade?
 str_npc2_intro|Oi, você seria bastante agradável para levar um copo comigo? Eu não estou reduzido qualquer para meus últimos cinco negadores e mim préfèrerais os beber só.
 str_npc3_intro|Dia bom!
@@ -545,7 +545,7 @@ str_npc3_signup_response_1|Humph, é um começo, nós lhe ensinaremos o resto.
 str_npc4_signup_response_1|Muito bem, feliz do contar entre nós... Barão.
 str_npc5_signup_response_1|Certamente. Segure, há salgado.
 str_npc6_signup_response_1|Feliz de mim conhecimento útil! Junte seu negócio que nós podemos adquirir a caminho.
-str_npc7_signup_response_1|Eu contrato o mas prova para não maltratar ninguém desde o primeiro dia. 
+str_npc7_signup_response_1|Eu contrato o mas prova para não maltratar ninguém desde o primeiro dia.
 str_npc8_signup_response_1|Não tema, me compacte. Você é viúvo e menina de barão e você será tratado como tal.
 str_npc9_signup_response_1|Ele/isto não deveria ter disto um priori disto. Eu falarei disto com meus homens.
 str_npc10_signup_response_1|Que homem! Nós o trataremos com o respeito inteiro que é o devido.
@@ -602,7 +602,7 @@ str_npc4_morality_speech|Me perdoe, mas saiba que a Casa do Rolves não aprecia 
 str_npc5_morality_speech|Me perdoe o capitão, mas {s21} não é uma coisa boa. Seu primeiro dever vai para os homens que receberam sal. O menos que eles podem esperar, é comida, um pagamento, uma parte da pilhagem de tempo para outros e aquele não os sacrifica inutilmente.
 str_npc6_morality_speech|Com licença {o cavalheiro/senhora}. Como você conhece isto, eu o participei de retificador de injustiças, em protetor dos inocente e expiar meus pessegueiros. Eu não esperei {s21}.
 str_npc7_morality_speech|Capitão, eu não gosto de nos ver {s21}. Estes estão lá os atos de bandido principal de baixos chãos, sem consideração para seus partidários.
-str_npc8_morality_speech|Eu não apreciei que você decidiu de {s21}. Cair à briga é uma honra, mas lutar dentro de uma tropa armada conduziram por um covarde é uma desgraça. 
+str_npc8_morality_speech|Eu não apreciei que você decidiu de {s21}. Cair à briga é uma honra, mas lutar dentro de uma tropa armada conduziram por um covarde é uma desgraça.
 str_npc9_morality_speech|{Mr./Mrs.}, apenas me veste de {s21}. Os homens de minha Casa estão prontos morrer mas não ser desonrado. Eu agradecerei a você de mais me subjugar com vergonha para o futuro.
 str_npc10_morality_speech|Minhas desculpas, capitão. Eu não posso dizer que me agrada nos ver {s21}. Estas são as pessoas simples que essayent para ganhar a vida deles/delas. Se nós pudéssemos parecer um pouco menos duros com estes calção de couro pobres, eu sentiria melhor muito.
 str_npc11_morality_speech|Com licença, capitão, mas eu não gosto de nos ver {s21}. Eu segui os exércitos e os grupos armados durante trinta anos e o menos aquele pode esperar por um chefe, é que ele/isto alimentou o dele/seus homens que ele/isto lhes paga e que ele/isto faz seu manter melhor os traseiros intatos pobres deles/delas.
@@ -695,7 +695,7 @@ str_npc7_personalitymatch_speech|Capitão, eu estava discutindo com {s11}. Ela/i
 str_npc8_personalitymatch_speech|Era redondamente um rasto de batalha, capitão. E eu o tenho que confessar que eu permaneço em admiração antes das provocações que {s11} lançou a nossos inimigos.
 str_npc9_personalitymatch_speech|Capitão, {s11} me deixou impressão boa durante esta batalha. É uma donzela agradável e modesta, se eu ouso dizer.
 str_npc10_personalitymatch_speech|Oi meu irmão! Desfrute sua vitória como deve ele/isto! Denominado, o velho {s11} se defende bem para uma mulher de sua idade, não? Note, eu não rejuvenesço qualquer um...
-str_npc11_personalitymatch_speech|Argh... Capitão! Uma batalha desta intensidade tende a fazer rangido meus ossos velhos. Feito um, mãos de batida abaixo eles, finalmente não verdadeiro? 
+str_npc11_personalitymatch_speech|Argh... Capitão! Uma batalha desta intensidade tende a fazer rangido meus ossos velhos. Feito um, mãos de batida abaixo eles, finalmente não verdadeiro?
 str_npc12_personalitymatch_speech|Massacre sagrada, capitão, massacre sagrada... embora necessário, necessariamente. {s11}, eu penso, compartilhe minha perplexidade nestes confrontações perpétuas.
 str_npc13_personalitymatch_speech|Você se fez um nome hoje, que guerra valorosa que você é! {s11} como além! Eu gosto bem isto. Ela/isto rhythmizes as batalhas para o som das canções de suas pessoas e se tendo a alma de artista, me agrada.
 str_npc15_personalitymatch_speech|Capitão, eu troquei algumas palavras com {s11} depois desta última batalha e eu posso lhe falar que este homem tem a cabeça realmente nos ombros.
@@ -1377,12 +1377,12 @@ str_rebellion_relation_very_favorable|pessoalmente, eu tenho o respeito maior a 
 str_rebellion_relation_favorable|Eu o conheço pessoalmente e eu o respeito.
 str_rebellion_relation_neutral|Eu não o conheço como também eu gostaria.
 str_rebellion_relation_unfavorable|Eu não confio em você.
-str_and_comma_3|Além, 
+str_and_comma_3|Além,
 str_but_comma_3|Porém,
-str_and_comma_1|, e 
-str_but_comma_1|, mas 
-str_and_comma_2|. Além, 
-str_but_comma_2|. Não obstante, 
+str_and_comma_1|, e
+str_but_comma_1|, mas
+str_and_comma_2|. Além,
+str_but_comma_2|. Não obstante,
 str_rebellion_agree_martial|Eu levei minha decisão. Eu sustentarei {s45} como legitima o herdeiro.
 str_rebellion_agree_quarrelsome|Ahh, eu pensei suficientemente assim. Eu nunca gostei realmente {s46} em todo caso. Vamos privar isto de seu trono.
 str_rebellion_agree_pitiless|Não. Eu não participarei de sua rebelião. Eu discirno isto como o capricho de criança para aquele teria retirado seu brinquedo. Eu permanecerei fiel para {s46} de qual a capacidade para reinar foi provada muitas vezes.
@@ -1449,7 +1449,7 @@ str_swadian_rebellion_monarch_response_2|Esse aquele grito para a angústia de u
 str_vaegir_rebellion_monarch_response_2|O que poderia fazer ou não fazer meu pai para proteger o trono não tem uma importância. Eu herdei isto, um ponto é tudo. Se fosse necessário evocar demandas todo velhas novamente e se uma herança pudesse ser lançada em pergunta em qualquer momento, soaria o toque das instituições reais então e nós evoluiríamos para um estado de guerra civil constante.
 str_khergit_rebellion_monarch_response_2|Dustum seria uma verdade experiente na distribuição dos rebanhos ou um juiz bom resolver os conflitos saltados à propriedade. Mas se vê disto ele um Khan? Nós nos faríamos em pouco tempo o desterrado de nossas próprias terras por nossos vizinhos e nós voltaríamos a este tempo remoto onde nós morreríamos de fome e tempo de resfriado nas estepes.
 str_nord_rebellion_monarch_response_2|O Hakrim Velho tem uma concepção provavelmente um pouco particular na maneira para ter seu reino, mas o único sangue real não fez um rei dos Nortes. Eu fui proclamado o rei pelos barões porque eu era o mais poderoso de tudo. Conta aquele sangue mais e infortúnio para o que virá me falar que ele/isto é caso contrário alguns.
-str_rhodok_rebellion_monarch_response_2|A única liberdade que os interessa é o um encher. Durante este tempo, meus homens dormem fora nas estepes, coma o pão seco e o peixe salgado. Eles examinam o horizonte para marcar as aldeias em chamas e verter o sangue deles/delas para proteger os lojistas de estradas. Eu tenho uma idéia... Se já eu conhecer um comerciante ferido que manca por causa de uma seta de Khergit ou um golpe de espada de um Swadien, então eu contaria a mim: 'Tem um homem cujo conselho é bom levar.' 
+str_rhodok_rebellion_monarch_response_2|A única liberdade que os interessa é o um encher. Durante este tempo, meus homens dormem fora nas estepes, coma o pão seco e o peixe salgado. Eles examinam o horizonte para marcar as aldeias em chamas e verter o sangue deles/delas para proteger os lojistas de estradas. Eu tenho uma idéia... Se já eu conhecer um comerciante ferido que manca por causa de uma seta de Khergit ou um golpe de espada de um Swadien, então eu contaria a mim: 'Tem um homem cujo conselho é bom levar.'
 str_sarranid_rebellion_monarch_response_2|Mas sabe que Arwa não foi igual sócio escolhido de Baybak para sua sabedoria e seu amor da justiça. Não, ela/isto foi escolhida porque era uma bruxa capaz de transformar os homens como Ayzar e Baybak em idiotas gaguejadores. Porém isso pode ser, eu respeitei meu juramento e aceitei sua usurpação até o momento onde ela/isto foi invalidada pela morte de seu boneco. Daqui em diante, ela/isto tem que respeitar o minha.
 str_courtship_comment_conventional_generic|é muito bem {elevado/elevado}
 str_courtship_comment_adventurous_generic|pareça bastante apropriado
@@ -1467,7 +1467,7 @@ str_feast_lengthy_description_2|A ação de comida e bebidas que você contanto 
 str_feast_lengthy_description_3|Comida e as bebidas que você contanto era suficiente para sustentar seus convidados nobres, mas não todos os cidadão das continuações deles/delas. Você se forja a reputação de alguém que conhece ao mínimo como respeitar suas obrigações sociais para a nobreza.
 str_feast_lengthy_description_4|Você pode estar orgulhoso para ter provido uma escolha grande de comida e bebidas, e que, em quantidade suficiente. Comida, as bebidas e as alegrias desamarraram os idiomas de seus convidados, enquanto lhes permitindo conversar livremente no negócio de reino enquanto lhe concedendo uma confiança maior.
 str_feast_lengthy_description_5|Você ofereceu uma mesa generosa a seus convidados de nobles como também para as continuações deles/delas. Alguns restos têm pode ser distribuído até mesmo ao pobre. Seus convidados derramam em elogios em sua generosidade e seu domínio das obrigações sociais de seu grau. A conversação, provida por comida e as bebidas, estava contente, enquanto reforçando as gravatas assim entre os convidados.
-str_feast_lengthy_description_6|O reino inteiro falará por meses da generosidade de sua mesa e você será um exemplo para seguir na hora dos banquetes futuros. Você encheu os estômagos de seus convidados nobres e as continuações deles/delas, mas também do pobre isso se apressou a suas portas. 
+str_feast_lengthy_description_6|O reino inteiro falará por meses da generosidade de sua mesa e você será um exemplo para seguir na hora dos banquetes futuros. Você encheu os estômagos de seus convidados nobres e as continuações deles/delas, mas também do pobre isso se apressou a suas portas.
 str_kingdom_1_adjective|{Swadien/Swadienne}
 str_kingdom_2_adjective|Vaegir
 str_kingdom_3_adjective|Khergit
@@ -1661,10 +1661,10 @@ str_party_morale_is_low|O estado de mente de algumas tropas é fraco!
 str_weekly_report|Relatório semanal
 str_has_deserted_the_party|abandonado o grupo.
 str_have_deserted_the_party|abandonado o grupo.
-str_space| 
-str_us_|Nós 
-str_allies_|Se aliado 
-str_enemies_|Inimigos 
+str_space|
+str_us_|Nós
+str_allies_|Se aliado
+str_enemies_|Inimigos
 str_routed|em derrota
 str_weekly_budget|Orçamento semanal
 str_rents_reg2_tariffs_reg3|Pensões: {reg2} ^ Tarifas: {reg3}
@@ -1713,7 +1713,7 @@ str_s21_the_s5_has_had_the_upper_hand_in_the_fighting|{s21} {s5} dominou as brig
 str_s21_the_s5_has_gotten_the_worst_of_the_fighting|{s21} {s5} sofreu as brigas.
 str_s21_the_fighting_has_gone_on_for_some_time_and_the_war_may_end_soon_with_a_truce|{s21} As brigas continuam algum tempo até mesmo e uma trégua porá talvez logo um termo à guerra.
 str_s21_the_fighting_has_begun_relatively_recently_and_the_war_may_continue_for_some_time|{s21} As brigas começaram relativamente ultimamente e a guerra arrisca para continuar algum tempo.
-str__however_the_truce_is_no_longer_binding_on_the_s14| Mas a trégua não impede mais {s14}
+str__however_the_truce_is_no_longer_binding_on_the_s14|Mas a trégua não impede mais {s14}
 str_s21__the_s5_is_bound_by_truce_not_to_attack_the_s14s18_the_truce_will_expire_in_reg1_days|{s21} ^ * {s5} concluiu uma trégua que insinua para não atacar {s14}.{s18} A trégua expirará dentro {reg1} dias.
 str_s21__the_s5_has_recently_suffered_provocation_by_subjects_of_the_s14_and_there_is_a_risk_of_war|{s21} ^ * {s5} era ultimamente a vítima de provocações em nome dos tópicos de {s14} e uma guerra não é excluída.
 str_s21__the_s5_has_no_outstanding_issues_with_the_s14|{s21} ^ * {s5} não tenha nenhum problema particular com {s14}
@@ -1932,7 +1932,7 @@ str_bandits_attacked_a_party_on_the_roads_so_a_bounty_is_probably_available|Os b
 str_total_additions_reg4|Adições totais: {reg4}
 str_total_subtractions_reg4|Subtrações totais: {reg4}
 str_s11_relocates_to_s10|{s11} move {s10}.
-str__i_must_attend_to_this_matter_before_i_worry_about_the_affairs_of_the_realm| Eu tenho que levar ao cuidado deste negócio antes de me preocupar sobre esses de reino.
+str__i_must_attend_to_this_matter_before_i_worry_about_the_affairs_of_the_realm|Eu tenho que levar ao cuidado deste negócio antes de me preocupar sobre esses de reino.
 str_the_other_matter_took_precedence|O outro negócio era prioridade.
 str_i_cannot_leave_this_fortress_now_as_it_is_under_siege|Eu não posso deixar esta fortaleza agora, porque ela/isto é sitiada.
 str_after_all_we_are_under_siege|Afinal de contas, nós somos sitiados.
@@ -1984,7 +1984,7 @@ str_i_am_short_of_money_and_i_hear_that_there_is_much_wealth_there|Eu sou curto 
 str_i_need_to_refill_my_purse_preferably_with_the_enemys_money|Eu tenho que encher minha bolsa, de preferência com o dinheiro hostil.
 str_by_striking_at_the_enemys_richest_lands_perhaps_i_can_draw_them_out_to_battle|Enquanto me atacando aos territórios mais ricos do inimigo, eu obrigarei lutar talvez para isto!
 str_i_am_thinking_of_going_on_the_attack|Eu penso em atacar.
-str_perhaps_if_i_strike_one_more_blow_we_may_end_this_war_on_our_terms_|Talvez aquele tempo que bate em um golpe além de, nós teremos sucesso concluindo esta guerra de acordo com nossas condições. 
+str_perhaps_if_i_strike_one_more_blow_we_may_end_this_war_on_our_terms_|Talvez aquele tempo que bate em um golpe além de, nós teremos sucesso concluindo esta guerra de acordo com nossas condições.
 str_we_may_be_able_to_bring_this_war_to_a_close_with_a_few_more_blows|Nós teremos sucesso talvez concluindo esta guerra enquanto batendo em alguns golpes além de.
 str_i_wish_to_attend_the_feast_there|Eu desejo assistir ao banquete que é segurado por cima lá.
 str_there_is_a_feast_which_i_wish_to_attend|Há um banquete para o qual eu quero assistir.
@@ -2001,14 +2001,14 @@ str_i_am_perhaps_needed_most_at_home|A pessoa precisa de minha presença talvez 
 str_i_cant_think_of_anything_better_to_do|Eu não vejo melhor nada a fazer...
 str_i_am_completing_what_i_have_already_begun|Eu termino o que eu comecei.
 str_i_dont_even_have_a_home_to_which_to_return|Eu faço nem mesmo tenha uma casa onde voltar.
-str__i_am_acting_independently_because_no_marshal_is_appointed| Eu ajo em toda a independência, ônibus que nenhum marechal é nomeado.
-str__i_am_acting_independently_because_our_marshal_is_currently_indisposed| Eu ajo em toda a independência, porque nosso marechal está sofrendo.
-str__i_am_acting_independently_because_our_realm_is_currently_not_on_campaign| Eu ajo em toda a independência, porque nosso reino não está atualmente em país.
-str__i_am_not_accompanying_the_marshal_because_i_fear_that_he_may_lead_us_into_disaster| Eu não venho com o marechal, porque eu temo que ele/isto nos conduz ao desastre.
-str__s16_has_kept_us_on_campaign_on_far_too_long_and_there_are_other_pressing_matters_to_which_i_must_attend| {s16} abusou nosso tempo bastante. Isto é acabado alguns dos países distantes, eu tenho negócio urgente para ajustar.
-str__i_am_not_participating_in_the_marshals_campaign_because_i_do_not_know_where_to_find_our_main_army| Eu não participo da campanha do marechal, porque eu ignoro onde nosso exército principal é.
+str__i_am_acting_independently_because_no_marshal_is_appointed|Eu ajo em toda a independência, ônibus que nenhum marechal é nomeado.
+str__i_am_acting_independently_because_our_marshal_is_currently_indisposed|Eu ajo em toda a independência, porque nosso marechal está sofrendo.
+str__i_am_acting_independently_because_our_realm_is_currently_not_on_campaign|Eu ajo em toda a independência, porque nosso reino não está atualmente em país.
+str__i_am_not_accompanying_the_marshal_because_i_fear_that_he_may_lead_us_into_disaster|Eu não venho com o marechal, porque eu temo que ele/isto nos conduz ao desastre.
+str__s16_has_kept_us_on_campaign_on_far_too_long_and_there_are_other_pressing_matters_to_which_i_must_attend|{s16} abusou nosso tempo bastante. Isto é acabado alguns dos países distantes, eu tenho negócio urgente para ajustar.
+str__i_am_not_participating_in_the_marshals_campaign_because_i_do_not_know_where_to_find_our_main_army|Eu não participo da campanha do marechal, porque eu ignoro onde nosso exército principal é.
 str__i_am_acting_independently_although_some_enemies_have_been_spotted_within_our_borders_they_havent_come_in_force_and_the_local_troops_should_be_able_to_dispatch_them|
-str__the_needs_of_the_realm_must_come_first| As necessidades de reino devem ser prioridade.
+str__the_needs_of_the_realm_must_come_first|As necessidades de reino devem ser prioridade.
 str_we_are_likely_to_be_overwhelmed_by_the_s9_let_each_defend_their_own|{s9} está a ponto de nos esmagar. Cada para a si mesmo.
 str_we_should_see_this_siege_through|Nós deveríamos conduzir este assento até seu termo.
 str_we_should_ride_to_break_the_siege_of_s21|Nós deveríamos ir elevar o assento de {s21}.
@@ -2029,9 +2029,9 @@ str_your_wedding_day_approaches|O dia de suas aproximações de matrimônio.
 str_s22_and_s23_wish_to_marry|{s22} e {s23} deseje se casar.
 str_it_has_been_a_long_time_since_the_lords_of_the_realm_gathered_for_a_feast|A muito tempo atrás que os Deuses de reino não se encontraram para festejar.
 str_the_circumstances_which_led_to_this_decision_no_longer_apply_so_we_should_stop_and_reconsider_shortly|As circunstâncias que conduziram a esta decisão são decíduas, donde a necessidade nos pare reconsiderar a situação.
-str_s15_is_at_war_with_s16_|{s15} está na guerra contra {s16}. 
-str_in_the_short_term_s15_has_a_truce_with_s16_as_a_matter_of_general_policy_|{s15} concluiu uma trégua a curto prazo com {s16}. Em termos de políticas gerais, 
-str_in_the_short_term_s15_was_recently_provoked_by_s16_and_is_under_pressure_to_declare_war_as_a_matter_of_general_policy_|A curto prazo, {s15} foi provocado ultimamente por {s16} e é acelerado para declarar a guerra. Em termos de políticas gerais, 
+str_s15_is_at_war_with_s16_|{s15} está na guerra contra {s16}.
+str_in_the_short_term_s15_has_a_truce_with_s16_as_a_matter_of_general_policy_|{s15} concluiu uma trégua a curto prazo com {s16}. Em termos de políticas gerais,
+str_in_the_short_term_s15_was_recently_provoked_by_s16_and_is_under_pressure_to_declare_war_as_a_matter_of_general_policy_|A curto prazo, {s15} foi provocado ultimamente por {s16} e é acelerado para declarar a guerra. Em termos de políticas gerais,
 str_s12s15_cannot_negotiate_with_s16_as_to_do_so_would_undermine_reg4herhis_own_claim_to_the_throne_this_civil_war_must_almost_certainly_end_with_the_defeat_of_one_side_or_another|{s12} {s15} não pode negociar com {s16}, porque pararia isto de reivindicar o trono. Esta guerra civil definitivamente levará magro com a vitória de um acampamento no outro.
 str_s12s15_considers_s16_to_be_dangerous_and_untrustworthy_and_shehe_wants_to_bring_s16_down|{s12} {s15} julgando {s16} {perigoso/perigoso} e desmerecedor de confiança, {?elle:il} segura para derrubar isto.
 str_s12s15_is_anxious_to_reclaim_old_lands_such_as_s18_now_held_by_s16|{s12} {s15} quer recuperar territórios anteriores como {s18} isso pertence atualmente para {s16}.
@@ -2101,7 +2101,7 @@ str_reg3_units_of_oil_of_reg5_to_be_consumed|{reg3} unidades de óleo de {reg5} 
 str_of_food_which_must_come_before_everything_else_the_amount_is_s8|De comida que deve ser prioridade, é a quantidade {s8}
 str_s9_and_the_variety_is_s8_|{s9} e a diversidade é {s8}.
 str_s9_of_drink_which_guests_will_expect_in_great_abundance_the_amount_is_s8|{s9} De bebida que os convidados quererão beneficiar em abundância, é a quantidade {s8}
-str_s9_of_spice_which_is_essential_to_demonstrate_that_we_spare_no_expense_as_hosts_the_amount_is_s8_|{s9} De tempero, o que é essencial mostrar que como anfitriões, nós não voltamos de qualquer despesa, a quantidade é {s8}. 
+str_s9_of_spice_which_is_essential_to_demonstrate_that_we_spare_no_expense_as_hosts_the_amount_is_s8_|{s9} De tempero, o que é essencial mostrar que como anfitriões, nós não voltamos de qualquer despesa, a quantidade é {s8}.
 str_s9_of_oil_which_we_shall_require_to_light_the_lamps_the_amount_is_s8|{s9} De óleo do qual nós teremos necessidade pela iluminação, é a quantidade {s8}.
 str_s9_overall_our_table_will_be_considered_s8|{s9} em geral, nossa mesa será considerada como {s8}.
 str_rebel|rebelde
@@ -2151,15 +2151,15 @@ str_renown_reg2_honour_rating_reg3s12_friends_s8_enemies_s6_s9|Famoso: {reg2}.^H
 str_you_lie_stunned_for_several_minutes_then_stagger_to_your_feet_to_find_your_s10_standing_over_you_you_have_lost_the_duel|Você permanece {tonto/tonto} então alguns minutos, se levanta você enquanto cambaleando e vê seu {s10} sobre você. Você perdeu o duelo.
 str_s10_lies_in_the_arenas_dust_for_several_minutes_then_staggers_to_his_feet_you_have_won_the_duel|{s10} permanece alguns minutos {estendido/extensão} no pó da arena, se levante então. Você ganhou o duelo.
 str_s4_skipped_in_p_total_enemy_casualties_capture_queue_because_is_friendly|{s4} saltou p em rabo de capturas de vítimas inimigo total porque é amigável
-str__this_castle_is_temporarily_under_royal_control| Este castelo está temporariamente debaixo de controle real.
-str__this_castle_does_not_seem_to_be_under_anyones_control| Ele/isto parece que ninguém controla este castelo.
-str__this_town_is_temporarily_under_royal_control| Este município está temporariamente debaixo de controle real.
-str__the_townspeople_seem_to_have_declared_their_independence| Os habitantes de cidade parecem ter declarado a independência deles/delas.
+str__this_castle_is_temporarily_under_royal_control|Este castelo está temporariamente sob de controle real.
+str__this_castle_does_not_seem_to_be_under_anyones_control|Parece que ninguém controla este castelo.
+str__this_town_is_temporarily_under_royal_control|Este município está temporariamente sob de controle real.
+str__the_townspeople_seem_to_have_declared_their_independence|Os habitantes de cidade parecem ter declarado a independência deles/delas.
 str_to_your_husband_s11|para seu marido, {s11}.
-str__you_see_the_banner_of_your_wifehusband_s7_over_the_castle_gate| Você vê a bandeira de seu {a mulher/marido}, {s7}, flutuar sobre a porta do castelo.
-str__the_banner_of_your_wifehusband_s7_flies_over_the_town_gates| A bandeira de seu {a mulher/marido}, {s7}, frota sobre as portas do município.
+str__you_see_the_banner_of_your_wifehusband_s7_over_the_castle_gate|Você vê a bandeira de seu {a mulher/marido}, {s7}, flutuar sobre a porta do castelo.
+str__the_banner_of_your_wifehusband_s7_flies_over_the_town_gates|A bandeira de seu {a mulher/marido}, {s7}, frota sobre as portas do município.
 str__the_lord_is_currently_holding_a_feast_in_his_hall|^O Deus dá um banquete atualmente em seu quarto de recibo.
-str__join_the_feast| (unir o banquete)
+str__join_the_feast|(unir-se ao banquete)
 str_belligerent_drunk_in_s4|Bebido agressivo para {s4}
 str_belligerent_drunk_not_found|Bêbado sem pista agressivo
 str_roughlooking_character_in_s4|Caráter duro {s4}
@@ -2176,10 +2176,10 @@ str_local_notables_from_s1_a_village_claimed_by_the_s4_have_been_mistreated_by_t
 str_villagers_from_s1_stole_some_cattle_from_s2|aldeão de {s1} roubou um castelo de {s2}
 str_villagers_from_s1_abducted_a_woman_from_a_prominent_family_in_s2_to_marry_one_of_their_boys|aldeão de {s1} afastado a mulher de uma família importante de {s2} o fazer se casar um dos filhos deles/delas
 str_villagers_from_s1_killed_some_farmers_from_s2_in_a_fight_over_the_diversion_of_a_stream|aldeão de {s1} matou alguns fazendeiros de {s2} na hora de uma briga sobre a divergência de um rio
-str_your_new_minister_|Seu ministro novo 
-str_s10_is_your_new_minister_and_|{s10} é seu ministro novo e 
+str_your_new_minister_|Seu ministro novo
+str_s10_is_your_new_minister_and_|{s10} é seu ministro novo e
 str_due_to_the_fall_of_s10_your_court_has_been_relocated_to_s12|Considerando o outono de {s10}, seu tribunal foi transferido {s12}
-str_after_to_the_fall_of_s10_your_faithful_vassal_s9_has_invited_your_court_to_s11_|Seguindo o outono de {s10}, seu partidário vassalo {s9} convidou seu tribunal para {s11} 
+str_after_to_the_fall_of_s10_your_faithful_vassal_s9_has_invited_your_court_to_s11_|Seguindo o outono de {s10}, seu partidário vassalo {s9} convidou seu tribunal para {s11}
 str_after_to_the_fall_of_s11_your_court_has_nowhere_to_go|Seguindo o outono de {s11}, seu tribunal não tem onde ir em nenhuma parte
 str_s8_wishes_to_inform_you_that_the_lords_of_s9_will_be_gathering_for_a_feast_at_his_great_hall_in_s10_and_invites_you_to_be_part_of_this_august_assembly|{s8} deseja o informar que os Deuses de {s9} prestará atenção a um banquete em seu quarto grande de {s10} e o convida a unir o a esta assembléia respeitável.
 str_consult_with_s11_at_your_court_in_s12|Consulte {s11} para seu tribunal de {s12}
@@ -2188,7 +2188,7 @@ str_although_it_has_only_been_a_short_time_since_your_departure_but_i_would_be_m
 str_although_i_have_received_no_word_from_you_for_quite_some_time_i_am_sure_that_you_must_have_been_very_busy_and_that_your_failure_to_come_see_me_in_no_way_indicates_that_your_attentions_to_me_were_insincere_|Eu não tenho notícias de você, provavelmente porque você é mesmo {ocupado/ocupado} e, apesar desta ausência, eu não questiono a sinceridade de suas atenções a minha consideração.
 str_i_trust_that_you_have_comported_yourself_in_a_manner_becoming_a_gentleman_during_our_long_separation_|Eu estou seguro que você se comportou igual cavalheiro durante nossa separação longa.
 str_it_has_been_many_days_since_you_came_and_i_would_very_much_like_to_see_you_again|Sua última visita volta para vários dias e eu almejo para o ver novamente.
-str__you_should_ask_my_s11_s16s_permission_but_i_have_no_reason_to_believe_that_he_will_prevent_you_from_coming_to_see_me| Você deveria solicitar a permissão de meu {s11} {s16}, mas eu não vejo por que ele/isto o pararia de fazer uma visita a mim.
+str__you_should_ask_my_s11_s16s_permission_but_i_have_no_reason_to_believe_that_he_will_prevent_you_from_coming_to_see_me|Você deveria solicitar a permissão de meu {s11} {s16}, mas eu não vejo por que ele/isto o pararia de fazer uma visita a mim.
 str__you_should_first_ask_her_s11_s16s_permission|. Você deveria pedir a permissão primeiro de {seu/seu} {s11} {s16}
 str__alas_as_we_know_my_s11_s16_will_not_permit_me_to_see_you_however_i_believe_that_i_can_arrange_away_for_you_to_enter_undetected| Ai, {meu/meu} {s11} {s16} nunca me permitirá o ver. Mas eu acredito para saber o fazer entre em incógnito.
 str__as_my_s11_s16_has_already_granted_permission_for_you_to_see_me_i_shall_expect_your_imminent_arrival| Como {meu/meu} {s11} {s16} já lhe concedeu a permissão vir me ver, eu espero por sua chegada iminente.
@@ -2198,7 +2198,7 @@ str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter_
 str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter_however_as_you_walk_back_towards_your_lodgings_an_elderly_lady_dressed_in_black_approaches_you_i_am_s11s_nurse_she_whispers_urgently_wait_for_a_while_by_the_spring_outside_the_walls_i_will_smuggle_her_ladyship_out_to_meet_you_dressed_in_the_guise_of_a_shepherdess_but_i_beg_you_for_all_of_our_sakes_be_discrete|Os guardas o observam e você evita bem lhes pedir a permissão entrar. Mas enquanto voltando em casa, uma mulher velha vestiu de aproximações pretas de você. ""Eu sou o enfermeira de {s11}"", ela/isto sussurra. ""Espere perto da fonte, fora das ameias. Mrs. unirá você disfarçou em pastora. Mas eu imploro disto a você, seja discreto!
 str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter_however_as_you_walk_back_towards_your_lodgings_an_elderly_lady_dressed_in_black_approaches_you_i_am_s11s_nurse_she_whispers_urgently_her_ladyship_asks_me_to_say_that_yearns_to_see_you_but_that_you_should_bide_your_time_a_bit_her_ladyship_says_that_to_arrange_a_clandestine_meeting_so_soon_after_your_last_encounter_would_be_too_dangerous|Os guardas o observam e você evita bem lhes pedir a permissão entrar. Mas enquanto voltando em casa, uma mulher velha vestiu de aproximações pretas de você.^""Eu sou o enfermeira de {s11}"", ela/isto sussurra. ""Mrs. me envia que lhe fale que ela/isto anseia por você, mas que você tem que esperar pelo momento bom. Ela/isto pensa que seria muito perigoso para para fixar um compromisso clandestino se pouco tempo depois de sua última reunião"."
 str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter|Os guardas o observam e você evita bem lhes pedir a permissão entrar.
-str_party_with_commander_mismatch__check_log_for_details_|Ordenando não corresponder ao grupo - consulte o jornal para mais de detalhes 
+str_party_with_commander_mismatch__check_log_for_details_|Ordenando não corresponder ao grupo - consulte o jornal para mais de detalhes
 str_doing_political_calculations_for_s9|Cálculos políticos para {s9}
 str_current_wealth_reg1|Riquezas presentes: {reg1}
 str_wanted_bandits_spotted_by_s4|Bandidos em vôo marcado por {s4}
@@ -2222,11 +2222,11 @@ str_our_men_are_ready_to_ride_forth_at_your_bidding_are_you_sure_this_is_what_yo
 str_seek_recognition|procurar o reconhecimento
 str_seek_vassalhood|procurar vassalagem
 str_seek_a_truce|procurar uma trégua
-str__promised_fief| (feudo prometeu)
+str__promised_fief|(feudo prometeu)
 str_no_fiefss12|(nenhum feudo) {s12}
 str_fiefs_s0s12|(feudos: {s0} {s12})
-str_please_s65_|Se ele/isto o agrada, {s65}, 
-str__s15_is_also_being_held_here_and_you_may_wish_to_see_if_reg4shehe_will_join_us| {s15} também é segurado aqui e você pode querer ver {reg4?assim elle:s'il} unirá a você.
+str_please_s65_|Se ele/isto o agrada, {s65},
+str__s15_is_also_being_held_here_and_you_may_wish_to_see_if_reg4shehe_will_join_us|{s15} também é segurado aqui e você pode querer ver {reg4?assim elle:s'il} unirá a você.
 str_one_thing_in_our_favor_is_that_s12s_grip_is_very_shaky_he_rules_over_a_labyrinth_of_rivalries_and_grudges_lords_often_fail_to_cooperate_and_many_would_happily_seek_a_better_liege|Felizmente para nós, o predomínio de {s12} é muito vacilando. Ele/isto reina em um labirinto de rivalidades e despeitos. Os Deuses recusam freqüentemente cooperar e muitos procurariam um suserano melhor alegremente.
 str_thankfully_s12s_grip_is_fairly_shaky_many_lords_do_not_cooperate_with_each_other_and_some_might_be_tempted_to_seek_a_better_liege|Felizmente, o predomínio de {s12} é um pouco vacilando. Muitos Deuses disputam e algum risco a ser tentado para dirigir em direção a um suserano melhor.
 str_unfortunately_s12s_grip_is_fairly_strong_until_we_can_shake_it_we_may_have_to_look_long_and_hard_for_allies|Infelizmente, o predomínio de {s12} é forte. Se nós não temos sucesso fazendo vacile ela, nós não arriscamos para achar alguns aliados.
@@ -2268,7 +2268,7 @@ str_please_do_not_take_this_amiss_but_im_not_sure_you_and_i_are_still_on_those_t
 str_really_well_this_is_the_first_i_have_heard_of_it_unless_you_build_up_support_for_that_claim_you_may_find_it_difficult_to_find_allies_however_whenever_you_see_fit_to_declare_yourself_publically_as_queen_i_should_be_honored_to_be_your_consort|Realmente? Ei bem, é a primeira vez que eu ouço para falar disto. Sem apoio para esta demanda, você arrisca para ter dificuldade que acha alguns aliados. Mas quando você julgará bom para o proclamar a rainha publicamente, será para mim uma honra grande o se casar.
 str_yes_i_have_heard_such_talk_while_it_is_good_that_you_are_building_up_your_support_i_do_not_think_that_you_are_quite_ready_to_proclaim_yourself_yet_however_i_will_let_you_be_the_judge_of_that_and_when_you_decide_i_should_be_honored_to_be_your_consort|Sim... Eu ouvi para falar disto. Você tem razão para procurar o apoio, mas eu penso que você não é contudo {pronto/empresta} o proclamar. Diz, você é alguns {só/só} o juiz e quando você decidirá, será para mim uma honra grande o se casar.
 str_yes_and_many_others_in_calradia_think_so_as_well_perhaps_it_is_time_that_you_declared_yourself_and_we_shall_ride_forth_together_to_claim_your_throne_i_should_be_honored_to_be_your_consort|Sim... e também é a opinião de muitas outras pessoas em Calradia. Talvez ele/isto é tempo para o declarar. Nós avançaremos então junto para reivindicar seu trono. E será para mim uma honra grande o se casar.
-str_i_am_disturbed_about_my_lord_s15s_choice_of_companions|A escolha dos companheiros de meu Deus {s15} me antagoniza. 
+str_i_am_disturbed_about_my_lord_s15s_choice_of_companions|A escolha dos companheiros de meu Deus {s15} me antagoniza.
 str_well_ill_be_honest_i_feel_that_sometimes_s15_overlooks_my_rights_and_extends_his_protection_to_the_unworthy|Ei bem, para ser honesto, eu tenho às vezes a impressão que {s15} tem um pouco de visões em meus direitos e que ele/isto esparrama o dele/sua proteção para o desmerecedor.
 str_heh_one_thing_that_ill_say_about_s15_is_that_he_has_a_ripe_batch_of_bastards_in_his_court|Ei. O sobre o qual eu posso dizer {s15}, é que seu tribunal está composto de uma verdadeira tira de pessoas rudes.
 str_well_sometimes_i_have_to_say_that_i_question_s15s_judgment_regarding_those_who_he_keeps_in_his_court|Ei bem, eu confesso que eu às vezes faço as perguntas no discernimento de {s15} sobre a composição de seu tribunal.
@@ -2307,7 +2307,7 @@ str_i_were_you_i_would_try_to_prove_myself_a_bit_more_before_i_went_about_pressi
 str_indeed_please_continue|Sim. Continue.
 str_me|eu
 str_i_worry_about_those_with_whom_you_have_chosen_to_surround_yourself|Sua colocação não é nenhuma confiança inspirada.
-str_there_are_some_outstanding_matters_between_me_and_some_of_your_vassals_|Algum negócio importante está dentro parlamentar entre alguns de meus vassalos e mim. 
+str_there_are_some_outstanding_matters_between_me_and_some_of_your_vassals_|Algum negócio importante está dentro parlamentar entre alguns de meus vassalos e mim.
 str_my_liege_has_his_faults_but_i_dont_care_for_your_toadies|Meu suserano tem algumas injustiças, mas eu ridicularizo suas lisonjas.
 str_i_think_youre_a_good_man_but_im_worried_that_you_might_be_pushed_in_the_wrong_direction_by_some_of_those_around_you|Eu acredito que você é alguém de bem, mas eu temo que algumas pessoas de seu dano de colocação você.
 str_i_am_loathe_to_fight_alongside_you_so_long_as_you_take_under_your_wing_varlots_and_base_men|Eu continuarei odiando lutar tanto a seus que você tomará partido debaixo de sua asa dos marotos e os homens desmerecedores.
@@ -2341,7 +2341,7 @@ str_however_circumstances_have_changed_since_we_made_that_decision_and_i_may_rec
 str_i_wish_to_marry_your_s11_s10_i_ask_for_your_blessing|Eu gostaria de se casar seu {s11}, {s10}. Eu imploro sua bênção.
 str_i_wish_to_marry_your_s11_s10_i_ask_for_your_help|Eu gostaria de se casar seu {s11}, {s10}. Eu imploro sua ajuda.
 str_you_plan_to_marry_s3_at_a_feast_hosted_by_s4_in_s5_you_should_be_notifed_of_the_feast_as_soon_as_it_is_held|Você considera se casando {s3} e organizar um banquete a {s4} para {s5}. Você deveria ser {atento/atento} do banquete assim que ele/isto comece.
-str_your_s11_|seu {s11}, 
+str_your_s11_|seu {s11},
 str_i_ask_again_may|Eu descanso a pergunta: então eu
 str_may|Então eu
 str_very_well_as_far_as_im_concerned_i_suppose_she_can_see_most_anyone_she_likes__within_reason_of_course|Muito bem. Em o que me interessa, penso eu que ela/isto pode ver que ela/isto quer... razoavelmente, claro que.
@@ -2363,9 +2363,9 @@ str_we_are_on_a_raid_and_are_now_targeting_s8|Nós lançamos uma ofensiva e viso
 str_we_are_trying_to_seek_out_and_defeat_s8|Nosso objetivo é achar e derrotar {s8}.
 str_we_are_riding_to_the_defense_of_s8|Nós vamos defender {s8}.
 str_we_are_gathering_for_a_feast_at_s8|Nós nos encontramos para festejar {s8}.
-str__however_that_may_change_shortly_s14| Mas pode mudar depressa. {s14}
+str__however_that_may_change_shortly_s14|Mas pode mudar depressa. {s14}
 str_it_is_our_custom_to_seal_any_such_alliances_with_marriage_and_in_fact_we_have_been_looking_for_a_suitable_groom_for_my_s11_s14|Nós temos costume para marcar tais alianças por um matrimônio e fazemos alguns, nós procuramos para um homem apropriado meu {s11}, {s14}.
-str_once_again_|uma vez além 
+str_once_again_|uma vez além
 str_cheat__marriage_proposal|Enganando - demanda em matrimônio
 str_you_plan_to_marry_s4_as_you_have_no_family_in_calradia_he_will_organize_the_wedding_feast|Você considera se casando {s4}. Como você não tem uma família em Calradia, ele/isto organizará o banquete de matrimônio.
 str_s43_just_so_you_know_if_you_attack_me_you_will_be_in_violation_of_the_truce_you_signed_with_the_s34|{s43} Saiba que se você me atacar, você infringirá a trégua com a que você concluiu {s34}
@@ -2382,10 +2382,10 @@ str_ah_my_gentle_playername_how_much_good_it_does_my_heart_to_see_you_again|Ai, 
 str_playername__i_am_so_glad_to_see_you_again_i_must_say_i_do_envy_your_freedom_to_ride_out_and_experience_the_world|{playername}, é para mim uma felicidade o ver novamente. Eu tenho que confessar que eu invejo sua liberdade para folhear o mundo.
 str_playername__i_am_so_glad_to_see_you_i_trust_that_you_have_been_behaving_honorably_since_last_we_met|{playername}, é para mim uma felicidade o ver. Eu espero que você tivesse um comportamento honrado desde nossa última reunião.
 str_playername__i_am_so_glad_that_you_were_able_to_come|{playername}, que prazer que você poderia surgir!
-str_i_do_enjoy_speaking_to_you_but_i_am_sure_you_understand_that_our_people_cluck_their_tongues_at_a_woman_to_spend_too_long_conversing_with_a_man_outside_her_family__although_the_heavens_know_its_never_the_man_who_is_held_to_blame_|Eu gosto de falar muito com você. Mas você seguramente sabe que em casa, não deve desejar também uma mulher discuta com um homem que não é de sua família... e nunca é o homem para que é mostrado do dedo. 
-str_as_much_as_i_enjoy_speaking_to_you_i_do_not_care_to_be_gossiped_about_by_others_who_might_lack_my_grace_and_beauty_|Eu gosto de discutir tanto com você que eu ridicularizo os fofoqueiros das pessoas que não têm nem minha graça nem minha beleza. 
-str_i_do_so_enjoy_speaking_to_you_but_as_a_daughter_of_one_of_the_great_families_of_this_land_i_must_set_an_example_of_propriety_|Eu gosto de falar muito com você. Mas como menina de um das famílias maiores deste país, eu tenho que mostrar o exemplo. 
-str_i_do_so_enjoy_speaking_to_you_but_as_a_daughter_of_good_family_i_must_protect_my_reputation_|Eu gosto de falar muito com você. Mas como menina de família boa, eu tenho que cuidar de minha reputação. 
+str_i_do_enjoy_speaking_to_you_but_i_am_sure_you_understand_that_our_people_cluck_their_tongues_at_a_woman_to_spend_too_long_conversing_with_a_man_outside_her_family__although_the_heavens_know_its_never_the_man_who_is_held_to_blame_|Eu gosto de falar muito com você. Mas você seguramente sabe que em casa, não deve desejar também uma mulher discuta com um homem que não é de sua família... e nunca é o homem para que é mostrado do dedo.
+str_as_much_as_i_enjoy_speaking_to_you_i_do_not_care_to_be_gossiped_about_by_others_who_might_lack_my_grace_and_beauty_|Eu gosto de discutir tanto com você que eu ridicularizo os fofoqueiros das pessoas que não têm nem minha graça nem minha beleza.
+str_i_do_so_enjoy_speaking_to_you_but_as_a_daughter_of_one_of_the_great_families_of_this_land_i_must_set_an_example_of_propriety_|Eu gosto de falar muito com você. Mas como menina de um das famílias maiores deste país, eu tenho que mostrar o exemplo.
+str_i_do_so_enjoy_speaking_to_you_but_as_a_daughter_of_good_family_i_must_protect_my_reputation_|Eu gosto de falar muito com você. Mas como menina de família boa, eu tenho que cuidar de minha reputação.
 str_although_it_is_kind_of_you_to_pay_me_such_attentions_i_suspect_that_you_might_find_other_ladies_who_may_be_more_inclined_to_return_your_affection|Suas atenções me tocam muito, mas eu imagino que você não terá qualquer dificuldade que acha algumas meninas mais notado lhe devolver seu afeto.
 str_as_flattered_as_i_am_by_your_attentions_perhaps_you_should_seek_out_another_lady_of_somewhat_shall_we_say_different_tastes|Suas atenções me lisonjeiam, mas deveriam olhar talvez para vocês outra menina para o... como dizer... para os gostos diferentes.
 str_as_flattered_as_i_am_by_your_attentions_i_am_a_daughter_of_good_family_and_must_be_aware_of_my_reputation_it_is_not_seemly_that_i_converse_too_much_at_one_time_with_one_man_i_am_sure_you_understand_now_if_you_will_excuse_me|Suas atenções me lisonjeiam, mas eu sou uma menina de família boa e eu tenho que cuidar de minha reputação. Não é apropriado para discutir muito longo com um homem. Eu estou seguro que você entende. Se você está disposto para com licença...
@@ -2398,12 +2398,12 @@ str_another_tournament_dedication_oh_i_suppose_it_is_always_flattering|Outra ded
 str_do_you_why_what_a_most_gallant_thing_to_say|Realmente? Aqui é isso é muito elegante de sua parte.
 str_hmm_i_cannot_say_that_i_altogether_approve_of_such_frivolity_but_i_must_confess_myself_a_bit_flattered|Hmm... Não que eu aprovo tal uma frivolidade, mas eu tenho que confessar que me lisonjeia.
 str_why_thank_you_you_are_most_kind_to_do_so|Ei bem, obrigado. É muito amável.
-str_you_are_most_courteous_and_courtesy_is_a_fine_virtue_|Você é mesmo {cortês/cortês} e a cortesia é uma virtude. 
-str_hmm_youre_a_bold_one_but_i_like_that_|Hmm. Você não falta uma audácia, mas me agrada. 
-str_ah_well_they_all_say_that_but_no_matter_a_compliment_well_delivered_is_at_least_a_good_start_|Ai, eles dizem tudo isto! Mas não importa. Um elogio formulou bem, já é um começo bom. 
+str_you_are_most_courteous_and_courtesy_is_a_fine_virtue_|Você é mesmo {cortês/cortês} e a cortesia é uma virtude.
+str_hmm_youre_a_bold_one_but_i_like_that_|Hmm. Você não falta uma audácia, mas me agrada.
+str_ah_well_they_all_say_that_but_no_matter_a_compliment_well_delivered_is_at_least_a_good_start_|Ai, eles dizem tudo isto! Mas não importa. Um elogio formulou bem, já é um começo bom.
 str_oh_do_you_mean_that_such_a_kind_thing_to_say|Oh! Você é sincero? Realmente é muito amável!
-str_you_are_a_most_gallant_young_man_|Você é um homem muito elegante jovem. 
-str__do_come_and_see_me_again_soon| Volte me ver depressa.
+str_you_are_a_most_gallant_young_man_|Você é um homem muito elegante jovem.
+str__do_come_and_see_me_again_soon|Volte me ver depressa.
 str_you_intend_to_ask_s12_for_permission_to_marry_s15|Você tem a intenção para perguntar {s12} a permissão para se casar {s15}.
 str_you_intend_to_ask_s12_to_pressure_s10_to_marry_you|Você tem a intenção para perguntar {s12} convencer {s10} o se casar.
 str_do_be_careful_i_am_so_much_endebted_to_you_for_this|Atenção! Eu tenho uma dívida para você...
@@ -2412,7 +2412,7 @@ str_sigh_i_will_never_truly_understand_men_and_their_rash_actions|Suspiro... Eu 
 str_you_intend_to_challenge_s13_to_force_him_to_relinquish_his_suit_of_s11|Você tem a intenção para desafiar {s13} de forma que ele/isto deixa de cortejar {s11}.
 str_farewell|Adeus.
 str_farewell_playername|Adeus, {playername}.
-str___we_believe_that_there_is_money_to_be_made_selling_| Nós pensamos que há dinheiro para ganhar enquanto vendendo 
+str___we_believe_that_there_is_money_to_be_made_selling_|Nós pensamos que há dinheiro para ganhar enquanto vendendo
 str__we_carry_a_selection_of_goods_although_the_difference_in_prices_for_each_is_not_so_great_we_hope_to_make_a_profit_off_of_the_whole| Nós transportamos bens diferentes. Embora a diferença de preço unitário ou mínimo, nós esperamos fazer um lucro em geral.
 str_s14and_other_goods|{s14} e outros bens.
 str__have_you_not_signed_a_truce_with_our_lord| Você não concluiu uma trégua com nosso Deus?

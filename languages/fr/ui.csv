@@ -7,7 +7,7 @@ ui_disabled|Fóruns
 ui_reduced_to_1_over_4_easiest|Reduzida 1 / 4 (Muito Fácil)
 ui_reduced_to_1_over_2_easy|Reduzida 1 / 2 (Fácil)
 ui_reduced_to_1_over_2_easiest|Reduzida 1 / 2 (Muito Fácil)
-ui_reduced_to_3_over_4_easy|Reduzida tem 3 / 4 (Easy)
+ui_reduced_to_3_over_4_easy|Reduzida tem 3 / 4 (Fácil)
 ui_normal|Normal
 ui_combat_ai|Batalha Número:
 ui_combat_speed|Velocidade de Luta:
@@ -53,34 +53,34 @@ ui_cancel|Cancelar
 ui_delete|Excluir
 ui_confirm_delete_game|Tem certeza que quer apagar esta parte?
 ui_error_removing_file|Erro ao apagar arquivo ...
-ui_day_datedisplay| Dia %d (%d:%d%d)
+ui_day_datedisplay|Dia %d (%d:%d%d)
 ui_reset_changes|Desfazer
 ui_weapon_proficiencies|Maestrias
 ui_skills|Competências
 ui_attributes|Atributos
-ui_enter_name_here|* Digite seu nome *
-ui_edit_face|Clique para mudar a face
+ui_enter_name_here|* Digite seu nome aqui *
+ui_edit_face|Clique para mudar a rosto
 ui_statistics|Estatística
 ui_next|Próximo
 ui_prev|anterior
 ui_learn|Aprender
-ui_question_saving_policy|Qual será a regra do jogo de backup?
-ui_saving_policy_realistic|realista! Você não saia sem salvar!
-ui_saving_policy_nonrealistic|eu quero sair sem salvar.
+ui_question_saving_policy|Qual será a a política de backups?
+ui_saving_policy_realistic|Realista! Você não poderá sair sem salvar!
+ui_saving_policy_nonrealistic|Eu quero poder sair sem salvar.
 ui_tutorial_character_generation|Agora digite seu nome e em seguida distribuir os seus pontos de atributo, habilidade e maestria. Clique sobre os vários elementos da tela para saber o impacto destas sobre o seu personagem.
 ui_str|FOR
 ui_agi|AGI
 ui_int|INT
-ui_cha|CHA
-ui_at_learning_limit|(limite de realização de aprendizagem)
+ui_cha|CAR
+ui_at_learning_limit|(Limite de realização de aprendizagem)
 ui_not_enough_skill_points_to_learn|(Não é o suficiente pontos de habilidade para aprender)
 ui_strength|Força
 ui_agility|Agilidade
 ui_intelligence|Inteligência
 ui_charisma|Carisma
 ui_not_enough_attributetype_to_learn_this_skill|(%s demasiado pequeno para aprender esta habilidade)
-ui_explanation_one_handed_weapon|Aplica-se a usar uma espada mão, machados e armas sem corte.
-ui_explanation_two_handed_weapon|Aplica-se o uso de espadas em ambas as mãos, baquetas e bardiches.
+ui_explanation_one_handed_weapon|Aplica-se ao uso de espadas, machados e armas sem corte.
+ui_explanation_two_handed_weapon|Aplica-se ao uso de espadas em ambas as mãos, baquetas e bardiches.
 ui_explanation_polearm|Aplica-se usar armas de pessoal, tais como lanças, lanças, paus, etc.
 ui_explanation_archery|Aplica-se para a utilização de arcos.
 ui_explanation_crossbow|Aplica-se ao uso de bestas.
@@ -89,7 +89,7 @@ ui_explanation_firearms|Aplica-se o uso de pistolas e espingardas.
 ui_explanation_strength|Força: Cada ponto aumenta a saúde de 1. As habilidades a seguir não pode exceder a força de 1 / 3: Saúde de ferro, poder bater, jato de potência, tensão de alimentação.
 ui_explanation_agility|Agilidade: Cada ponto dá cinco pontos de controle e aumenta a velocidade de armas de 0,5%. As habilidades a seguir não pode exceder a agilidade de 1 / 3: Fearless, Escudo, atletismo, equitação, escalada Archery, saques.
 ui_explanation_intelligence|Inteligência: Cada ponto em inteligência dá um ponto de perícia extra imediata. As habilidades a seguir não pode ultrapassar a inteligência do 1 / 3: Mentor, Track, táticas, o conhecimento do terreno, em destaque, a Organização do inventário, Tratamento de Feridas, cirurgia, primeiros socorros, Engenharia, Persuasão.
-ui_explanation_charisma|Carisma: Cada ponto aumenta o limite de tamanho de seu grupo 1. As habilidades a seguir não pode exceder o carisma de 1 / 3: Gestão de prisioneiros, Conceito de comando, pechinchar.
+ui_explanation_charisma|Carisma: Cada ponto aumenta o limite de tamanho de seu agrupamento 1. As habilidades a seguir não pode exceder o carisma de 1 / 3: Gestão de prisioneiros, Conceito de comando, pechinchar.
 ui_level|Nível: %d
 ui_xp|Experiência: %d
 ui_next_level_at|Próximo nível: %d
@@ -105,7 +105,7 @@ ui_party_losses|%s :%d --- %d feridos morto em %d.
 ui_casualties_sustained|Perdas:
 ui_advantage_change|Alterar vantagem = %c%d
 ui_overall_battle_casualties|Perda total da batalha:
-ui_advantage_outnumbered|Seu out numbered parece impossível.
+ui_advantage_outnumbered|Está excedido em números.
 ui_advantage_major_disadvantage|Está mais desfavorecidos.
 ui_advantage_slight_disadvantage|Está um pouco desfavorecidos.
 ui_advantage_balanced|A situação é equilibrada.
@@ -183,7 +183,7 @@ ui_n_hours|%d Horas
 ui_between_hours|de %d Hora até %d
 ui_combatants|Assuntos: %d
 ui_party_size|Tamanho do agrupamento: %d
-ui_party_size_between|Tamanho do grupo: %d até %d
+ui_party_size_between|Tamanho do agrupamento: %d até %d
 ui_merchant|Mercador
 ui_return|Voltar
 ui_no_cost|Sem custo
@@ -202,8 +202,8 @@ ui_merchant_pay_whatever|Cara, me paga com o que você tem.
 ui_merchant_think_of_something_else|Hmm ... Nós vamos encontrar um acordo.
 ui_dumping_value_items|%d objetos serão perdidos para sempre, você tem certeza que quer continuar?
 ui_dumping_value_item|Um objeto será definitivamente perdido, você tem certeza que quer continuar?
-ui_question_slaughter_food_and_eat| Matar %s e comer?
-ui_money_value| Prata: %s
+ui_question_slaughter_food_and_eat|Matar %s e comer?
+ui_money_value|Prata: %s
 ui_dump|Cancelar
 ui_outfit|Roupa
 ui_arms|Braço
@@ -267,7 +267,7 @@ ui_terrible|Terrível
 ui_very_low|Muito baixo
 ui_low|Baixo
 ui_below_average|Abaixo da média
-ui_average| Médio
+ui_average|Médio
 ui_above_average|Acima da média
 ui_high|Alto
 ui_very_high|Muito Alto
@@ -290,7 +290,7 @@ ui_hire|Recrutar
 ui_notification_cant_hire|(dinheiro suficiente para contratar)
 ui_uncapture|Grátis
 ui_capture|Capture
-ui_party_capcity_reached|(capacidade do grupo alcançado)
+ui_party_capcity_reached|(capacidade do agrupamento alcançado)
 ui_all|Todos
 ui_joining_cost_weekly_wage|Todos do recrutamento: %d, Balanço semanal: %d
 ui_weekly_wage|Valor do Balanço semanal: %d
@@ -350,15 +350,15 @@ ui_number_of_companions_exceeds_leadership_limit|O número de seus soldados exce
 ui_number_of_prisoners_exceeds_prisoner_management_limit|O número de prisioneiros ultrapassa o limite da sua gestão de prisioneiros.
 ui_party_morale_is_low|A moral do agrupamento está baixa!
 ui_and_one_space| e
-ui_has_deserted_the_party|Abandonou o grupo.
-ui_have_deserted_the_party|Abandonou o grupo.
+ui_has_deserted_the_party|Abandonou o agrupamento.
+ui_have_deserted_the_party|Abandonou o agrupamento.
 ui_weekly_report|Semanal
 ui_shared_number_experience_within_party|O agrupamento está compartilhando %d pontos de experiência.
 ui_got_item_value|Você começa o objeto: %s.
 ui_game_saved_successfully|Jogo salvo com sucesso.
 ui_autosaving|Salvar automaticamente...
-ui_quick_saving|backup rápido em andamento ...
-ui_cant_quick_save|Não é possível fazer uma gravação rápida durante uma batalha.
+ui_quick_saving|Backup rápido em andamento ...
+ui_cant_quick_save|Não foi possível fazer uma gravação rápida durante a batalha.
 ui_screenshot_taken_to_value|Screenshot registrado em %s
 ui_screenshot_failed|Não foi possível salvar a imagem.
 ui_value_joined_your_party|%s uniu ao seu agrupamento.
@@ -433,7 +433,7 @@ ui_equip_next_shield|Pegar Escudo após
 ui_sheath_weapon|Bainha
 ui_character_window|Personagem
 ui_inventory_window|Inventário
-ui_party_window |Agrupamento
+ui_party_window|Agrupamento
 ui_quests_window|Buscas
 ui_game_log_window|Game Log Window
 ui_leave_location_retreat|Sair do Lugar/escapar
@@ -527,7 +527,7 @@ ui_everyone_around_me|Soldados próximos
 ui_str_and_str|%s e %s
 ui_str_comma_str|%s %s
 ui_need_to_learn_prisoner_management|Você tem que aprender técnicas de gestão para capturar prisioneiros.
-ui_game_log|Jornal do jogo
+ui_game_log|Diário do jogo
 ui_recent_messages|Mensagens recentes
 ui_player|Jogador
 ui_value_denars|d% denários
@@ -546,13 +546,13 @@ ui_button_party_member_healthy_total|%s (%d/%d)
 ui_button_party_member_total|%s (%d)
 ui_button_party_member_hero_percentage_wounded|%s (%d%% - Hurt)
 ui_button_party_member_hero_percentage|%s (%d%%)
-ui_percentage_value| %d%%
+ui_percentage_value|%d%%
 ui_full|Completo
 ui_quick|Rápido
 ui_none|Nenhum
 ui_change|Editar
 ui_how_to_change|Como faço para mudar isso?
-ui_change_directx_explanation| Você pode escolher entre um método de renderização 7 para DirectX 9 e clicando no botão do menu de instalação que aparece quando você inicia o jogo pela primeira vez.
+ui_change_directx_explanation|Você pode escolher entre um método de renderização 7 para DirectX 9 e clicando no botão do menu de instalação que aparece quando você inicia o jogo pela primeira vez.
 ui_dropping_picking_up|%s elenco; %s pegou.
 ui_dropping|%s é descartado (e).
 ui_picking_up|%s pegou.
