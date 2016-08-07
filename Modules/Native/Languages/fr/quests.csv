@@ -1,0 +1,58 @@
+﻿lockitver|DO NOT DELETE THIS LINE! 2698
+qst_deliver_message|Usar uma mensagem para {s13}
+qst_deliver_message_to_enemy_lord|Usar uma mensagem para {s13}
+qst_raise_troops|Nascer do sol {reg1} {S14}
+qst_escort_lady |Escota {s13} para {s14}
+qst_deal_with_bandits_at_lords_village|Salve a aldeia {s15} de saqueadores
+qst_kill_local_merchant|Assassinar Mercador do local para {s3}
+qst_bring_back_runaway_serfs|Trazer servos fugitivos
+qst_follow_spy|Siga um espião até o local de encontro
+qst_capture_enemy_hero|Captura de um senhor de {s13}
+qst_lend_companion|Dar animal de estimação {s3} a {s9}
+qst_incriminate_loyal_commander|Acusando (s16), o comandante Fiel (s13).
+qst_meet_spy_in_enemy_town|Conheça um espião em {s13}
+qst_capture_prisoners|Move {reg1} {s3} Prisioneiros
+qst_lend_surgeon|Dê {s1} com {s3}, o cirurgião
+qst_follow_army|Siga o exército {s9}
+qst_report_to_army|Adicionar para {s13}, Marechal
+qst_deliver_cattle_to_army|Trazendo {reg3} bovinos para {s13}
+qst_join_siege_with_army|sede da associação {s14}
+qst_screen_army|Marcos do avanço do exército de (s13)
+qst_scout_waypoints|Advance {s13}, {s14} até {s15}
+qst_rescue_lord_by_replace|Resgaste {s13} de {s14}
+qst_deliver_message_to_prisoner_lord|Mandar uma mensagem para {s13} a {s14}
+qst_duel_for_lady|Desafio {s13} para um duelo pela lady
+qst_duel_courtship_rival|Desafio {s13} a uma luta com punhos (opcional)
+qst_duel_avenge_insult|Desafio {s13} para um duelo de armas
+qst_move_cattle_herd|Levando o gado para {s13}
+qst_escort_merchant_caravan|Acompanhando a caravana do comerciante {s8}
+qst_deliver_wine|Dar {reg} unidades de {s4} para {s6}
+qst_troublesome_bandits|Perseguindo bandidos problemáticos
+qst_kidnapped_girl|Resgate menina que os bandidos pegaram
+qst_persuade_lords_to_make_peace|Que os dois senhores não são um obstáculo para a paz
+qst_deal_with_looters|Cuidados com os saqueadores
+qst_deal_with_night_bandits|Cuidados com bandidos da noite
+qst_deliver_grain|Leve o Trigo a {s3}
+qst_deliver_cattle|Denunciar {reg5} gado {S3}
+qst_train_peasants_against_bandits|Chamar os camponeses de {s13} para lutar contra os bandidos.
+qst_eliminate_bandits_infesting_village|Salve a aldeia {s7} de Saqueadores
+qst_visit_lady|Visitando uma Senhorita
+qst_formal_marriage_proposal|Proposta formal de casamento solene
+qst_obtain_liege_blessing|Casamento solene Aplicar
+qst_wed_betrothed|Casar com sua noiva
+qst_wed_betrothed_female|Casar com sua noiva
+qst_join_faction|Juramento de homenagem {s1}
+qst_rebel_against_kingdom|Ajudar {s13} a reclamar o trono de {s14}
+qst_consult_with_minister|Consultar Ministro
+qst_organize_feast|Organizar um banquete
+qst_resolve_dispute|Resolvendo disputas
+qst_offer_gift|Dar um presente
+qst_denounce_lord|Levantar um senhor
+iqst_intrigue_against_lord|Intriga contra um senhor
+qst_track_down_bandits|Caminho de bandidos
+qst_track_down_provocateurs|Caminho de desordeiros
+qst_retaliate_for_border_incident|Respondendo a um incidente na fronteira
+qst_raid_caravan_to_start_war|Atacar uma caravana neutro para provocar uma guerra
+qst_cause_provocation|provocar um reino para atacar outro
+qst_rescue_prisoner|Livrar ou resgatar um prisioneiro
+qst_quests_end|Fim das Quests

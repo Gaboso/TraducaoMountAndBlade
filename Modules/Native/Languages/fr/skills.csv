@@ -1,0 +1,85 @@
+﻿lockitver|DO NOT DELETE THIS LINE! 2698
+skl_trade|Comércio
+skl_trade_desc|Cada nível desta habilidade reduz sua penalidade de 5%% do comércio. (Competência do Grupamento)
+skl_leadership|Liderança
+skl_leadership_desc|Cada ponto aumenta o número máximo de tropas que você pode encomendar 5 e a moral do seu grupo. Cada ponto também reduz o pagamento das tropas de 5%%. (Competência do Comando)
+skl_prisoner_management|Gestão de prisioneiros
+skl_prisoner_management_desc|Cada nível dessa habilidade aumenta o número máximo de prisioneiros de %d. (Competência do Comando)
+skl_reserved_1|Competência reservada 1
+skl_reserved_1_desc|Essa competência é reservada.
+skl_reserved_2|Competência reservada 2
+skl_reserved_2_desc|Essa competência é reservada.
+skl_reserved_3|Competência reservada 3
+skl_reserved_3_desc|Essa competência é reservada.
+skl_reserved_4|Competência reservada 4
+skl_reserved_4_desc|Essa competência é reservada.
+skl_persuasion|Persuasão
+skl_persuasion_desc|Esta habilidade lhe permite impor a sua opinião sobre os outros. (Competência pessoal)
+skl_engineer|Engenharia
+skl_engineer_desc|Essa habilidade permite que você construa equipamentos de cerco e organizar a sua taxa mais eficaz. (Competência do Grupamento)
+skl_first_aid|Primeiros Socorros
+skl_first_aid_desc|heróis retornando a 5%% dos seus pontos de saúde perdida durante uma missão de nível de habilidade. (Competência do Grupamento)
+skl_surgery|Cirurgia
+skl_surgery_desc|Cada ponto investido nesta habilidade concede 4%% de chance que um membro do grupo baleado ou ferido ao invés de morrer. (Competência do Grupamento)
+skl_wound_treatment|Cuidados de Feridas
+skl_wound_treatment_desc|A velocidade de cura do grupo é aumentado em 20%% por nível de habilidade. (Competência do Grupamento)
+skl_inventory_management|Organização de estoque
+skl_inventory_management_desc|Aumenta a capacidade do inventário de 6 por nível de habilidade. (Competência do comando)
+skl_spotting|Destaque
+skl_spotting_desc|O campo de visão do grupo é aumentado em 10%% por nível de habilidade. (Competência do Grupamento)
+skl_pathfinding|Conhecimento de campo
+skl_pathfinding_desc|A velocidade de deslocamento da placa é aumentada de 3%% por nível de habilidade. (Competência do Grupamento)
+skl_tactics|Tácticas
+skl_tactics_desc|Ambos os níveis de habilidade, aumentando a sua vantagem táticas de combate 1. (Competência do Grupamento)
+skl_tracking|Rastreamento
+skl_tracking_desc|Rastreadores acham mais informações. (Competência do Grupamento)
+skl_trainer|Mestre
+skl_trainer_desc|Cada dia, cada herói com esta habilidade dá experiência para todos os outros membros do grupo, cujo nível é inferior a eles. A experiência adquirida, assim, aumenta: {0,4,10,16,23,30,38,46,55,65,80}. (Competência pessoal)
+skl_reserved_5|Competência reservada 5
+skl_reserved_5_desc|Essa competência é reservada.
+skl_reserved_6|Competência reservada 6
+skl_reserved_6_desc|Essa competência é reservada.
+skl_reserved_7|Competência reservada 7
+skl_reserved_7_desc|Essa competência é reservada.
+skl_reserved_8|Competência reservada 8
+skl_reserved_8_desc|Essa competência é reservada.
+skl_looting|Saques
+skl_looting_desc|Esta habilidade aumenta a quantidade de despojos obtidos a 10%% por nível de habilidade. (Competência do Grupamento)
+skl_horse_archery|Arqueria ao Cavalo
+skl_horse_archery_desc|Sanções aumentam a precisão quando se usa um arco ou arma de arremesso montado ao cavalo. (Competência Pessoal)
+skl_riding|Cavalgar
+skl_riding_desc|Você pode montar cavalos aos níveis mais elevados de dificuldade e aumenta a velocidade e manobrabilidade do seu cavalo. (Competência Pessoal)
+skl_athletics|Atletismo
+skl_athletics_desc|Aumenta a sua velocidade de marcha. (Competência Pessoal)
+skl_shield|Proteção
+skl_shield_desc|Reduz os danos infligidos aos escudos (8%% ao nível de habilidade) e melhora a área coberta pelo escudo e sua velocidade. (Competência Pessoal)
+skl_weapon_master|Destemido
+skl_weapon_master_desc|torna o aprendizado mais fácil mestre de armas e aumenta os limites. Os limites aumentam também: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Competência Pessoal)
+skl_reserved_9|Competência reservada 9
+skl_reserved_9_desc|Essa competência é reservada.
+skl_reserved_10|Competência reservada 10
+skl_reserved_10_desc|Essa competência é reservada.
+skl_reserved_11|Competência reservada 11
+skl_reserved_11_desc|Essa competência é reservada.
+skl_reserved_12|Competência reservada 12
+skl_reserved_12_desc|Essa competência é reservada.
+skl_reserved_13|Competência reservada 13
+skl_reserved_13_desc|Essa competência é reservada.
+skl_power_draw|Tensão
+skl_power_draw_desc|Permite que o personagem usar arcos mais poderosos. Cada ponto investido nesta habilidade (até 4, além da condição de poder comprimento do arco) aumenta o dano causado com arcos de 14%%. (Competência Pessoal)
+skl_power_throw|Poder de Disparo
+skl_power_throw_desc|Cada ponto investido neste aumenta dano de habilidade de lançar armas a 10%%. (Competência Pessoal)
+skl_power_strike|Tirar Energia
+skl_power_strike_desc|Cada ponto investido nesta habilidade aumenta dano ao corpo-a-mão a 8%%. (Competência Pessoal)
+skl_ironflesh|Saúde de Ferro
+skl_ironflesh_desc|Cada ponto investido nesta habilidade aumenta pontos de vida 2. (Competência Pessoal)
+skl_reserved_14|Competência reservada 14
+skl_reserved_14_desc|Essa competência é reservada.
+skl_reserved_15|Competência reservada 15
+skl_reserved_15_desc|Essa competência é reservada.
+skl_reserved_16|Competência reservada 16
+skl_reserved_16_desc|Essa competência é reservada.
+skl_reserved_17|Competência reservada 17
+skl_reserved_17_desc|Essa competência é reservada.
+skl_reserved_18| Competência reservada 18
+skl_reserved_18_desc|Essa competência é reservada.

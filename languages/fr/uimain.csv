@@ -1,0 +1,83 @@
+lockitver|DO NOT DELETE THIS LINE! 2698
+ui_texture_detail|Detalhes de texturas:
+ui_ondemand_textures|Carregar Texturas em demanda
+ui_language|                           		 Idioma:
+ui_max_frame_rate|Max Refresh rate:
+ui_enable_version_check|Habilitar Checagem da versão
+ui_enable_bumpmap|Use lombada mapeamento
+ui_disable_blood|Ocultar sangue
+ui_disable_music|Desativar música
+ui_disable_sound|Desabilitar sons
+ui_enable_cheats|Habilitar cheats
+ui_enable_edit_mode|Activar modo de edição (Atenção diminui o desempenho)
+ui_enable_pixel_shaders|Usar Pixel Shaders
+ui_enable_sound_variation|Habilitar variações de som
+ui_enable_vertex_shaders|Método de renderização:
+ui_shadow_quality|Qualidade de sombras:
+ui_directx_7|DirectX 7
+ui_directx_9|DirectX 9
+ui_show_framerate|Taxa de atualização do Display
+ui_start_windowed|Executar em modo de janela
+ui_trialmode_caption|Ativação
+ui_launch_buy|Comprar uma licença na TaleWorlds.com
+ui_launch_faq|Perguntas freqüentes sobre a ativação
+ui_trialmode2|Para ativar o jogo agora ...
+ui_trialmode3|Caso contrário, você também pode ...
+ui_trialmode4|Se você tem dúvidas sobre o processo de ativação, você pode ver ...
+ui_serial_key_caption|Numéro de série
+ui_notification_serial_input|Digite seu número de série a seguir (você pode copiar e colar) e, em seguida, clique no botão Ativar
+ui_activate|Ativar
+ui_paste|Colar
+ui_notification_serial_internet_connection|Você deve estar conectado à Internet para ativação.
+ui_notification_serial_offline|Se esse computador não tiver acesso à Internet, você também pode usar:
+ui_manual_activation|Ativação manual 
+ui_manual_activation_caption|Ativação manual
+ui_cancel2|Cancelar
+ui_ok2|Validar
+ui_activation_successful|O jogo foi ativada com sucesso.
+ui_activation_denied|Ativação rejeitada!
+ui_notification_serial_already_used|Este número de série já está sendo usado em outro computador. Esperar algumas semanas para reativar o jogo no computador.
+ui_notification_unable_to_connect_to_activation_server|Não é possível se conectar ao servidor de ativação!
+ui_notification_unable_to_connect_to_activation_server2|Certifique-se que sua conexão com a Internet está ativa e funcionando corretamente e repita. Se você usar um firewall, pode ser necessário configurá-lo para aceitar que o jogo se conecta à Internet. Se algum método falhar, você ainda pode usar a activação manual.
+ui_incorrect_serial_number|Serial incorreto!
+ui_incorrect_hardware_hash|Incorreta hash de hardware!
+ui_incorrect_activation_code|Ativação Código incorreto!
+ui_cant_write_to_registry|Não foi possível registar no registo!
+ui_video|Vídeo
+ui_audio|Áudio
+ui_game|Jogo
+ui_advanced|Avançado
+ui_there_are_no_modules_installed|Nenhum módulo está instalado!
+ui_new_version_found|A nova versão foi encontrado!
+ui_notification_unable_to_retreive_new_version|Não é possível recuperar informações sobre a nova versão. Por favor, tente novamente mais tarde.
+ui_new_version|Nova versão:
+ui_off|Desativar
+ui_continue_playing_the_trial_mode|Continuar a desempenhar no processo
+ui_faq_caption|FAQ
+ui_faq_text|Q: Qual é a ativação? \ r \ nR: O sistema de ativação é um método intuitivo de proteção contra cópia que é para fornecer um número de série único, com cada cópia do jogo Você Ative o jogo com o seu número de série uma vez para cada computador que você deseja jogar. Após a ativação, você não precisa mais nada para jogar o jogo, nem mesmo manter o disco do jogo na unidade. Contanto que você mantenha o seu número de série, é fácil ativar o jogo, em seguida, jogá-lo, mesmo depois de muitos anos. \ R \ n \ r \ nQ: Onde está o meu número de série? \ R \ NR: Cada caixa de jogo inclui um número de série único. Um provedor de dados pode, potencialmente, distribuir os números de série diferente, mas geralmente, ele é colado na capa de seu manual. Se você comprou o seu jogo on-line, o vendedor deve fornecer normalmente o seu número de série. \ R \ n \ r \ nQ: Como funciona o processo de ativação? \ R \ NR: O jogo cria um valor hash A partir das especificações do seu computador e envia para um servidor de ativação na internet, juntamente com seu número de série. O servidor de ativação registra o número de série, como apropriado para seu computador, em seguida, responde com um número de ativação que desbloqueia o \ jogo completo r \ n \ r \ nQ: Posso ativar o jogo na vários computadores? \ r \ nR: Sim, pode. Mas lembre-se que a licença para usar o jogo foi dado a você, para seu uso pessoal. O servidor de ativação é permitido rejeitar um número temporário serial se for utilizado por um grande número de computadores por um período curto. \ R \ n \ r \ nQ: O programa pára de responder após você clicar no botão Ativar. \ R \ nR: O processo de ativação pode às vezes levar até trinta segundos para concluir. Seja paciente, o jogo irá mostrar o resultado da ativação no final do processo. \ R \ n \ r \ nQ: eu não tenho acesso à Internet no meu computador. Como faço para ativar o jogo? \ R \ nR: Neste caso, selecione o jogo manualmente. Basta clicar no botão "Enter Serial Number" e clique em "Ativar Manualmente". Você ainda vai abrir a página Web de ativação manual a partir de outro computador conectado à Internet. \ R \ n 
+ui_auto_adjust|Ajuste automático
+ui_screen_size|Resolução da tela:
+ui_antialiasing|Anti-aliasing:
+ui_use_desktop_resolution|Use a resolução do desktop
+ui_check_for_new_version|Procure uma nova versão
+ui_configure|Configurar
+ui_configure_caption|Configurar
+ui_gamersgate_website|Website GamersGate
+ui_current_setting|           módulo atual:
+ui_manual_activation_text1|1) No seu navegador, digite o seguinte endereço:
+ui_manual_activation_text2|2) Digite seu número de série na página web que aparece ...
+ui_manual_activation_text3|3) ... eo hash de hardware da máquina:
+ui_manual_activation_text4|4) A página vai te dar um código de ativação. Inseri-lo ou copiar e colar, em seguida, clique em OK.
+ui_activation_code|Código de ativação:
+ui_force_vsync|Forçar a sincronização vertical
+ui_module_newer_than_application|O módulo selecionado tem sido identificado como não funcional, com a versão atual do jogo é altamente recomendado para não jogar com esta configuração. Para corrigir isso, tentar encontrar uma nova versão do jogo
+ui_module_older_than_application|Selecionado o módulo foi criado para uma versão anterior do jogo você pode tentar iniciar o jogo, mas as chances são de que estão enfrentando alguns problemas. Para remediar esta situação, procurando uma nova versão deste módulo.
+ui_m_low|Baixa
+ui_m_high|Alta
+ui_m_ultra_high|Muito Alta
+ui_force_single_threading|Forçar o único Threading
+ui_SavegamesText|Do que você mantenha seus arquivos de backup?
+ui_launch_activate|Digite seu número de série
+ui_trialmode2_online|Depois de adquirir uma licença, você recebe um número de série. \n Para desbloquear a versão completa, por favor ...
+ui_trialmode3_online|Por contras, se você não quiser comprar o jogo, no entanto, você também pode ...
+ui_trialmode4_online|Nosso sistema de compras on-line é totalmente seguro e atende os direitos dos nossos clientes com a segurança, respeitando a sua privacidade, a oportunidade de possuir cópias de segurança de seu jogo e atualizar seus computadores / hardware. Se você quiser saber mais sobre a nossa política de vendas, visite:
