@@ -1,43 +1,43 @@
 lockitver|DO NOT DELETE THIS LINE! 2698
-ui_texture_detail|Texture Detail:
-ui_max_frame_rate|Max. Frame Rate:
-ui_enable_bumpmap|Use Bump Mapping
-ui_disable_blood|Hide Blood
-ui_disable_music|Disable Music
-ui_disable_sound|Disable Sound
-ui_enable_cheats|Enable Cheats
-ui_enable_edit_mode|Enable Edit Mode (Be warned, this slows down the game.)
-ui_enable_pixel_shaders|Use Pixel Shaders
-ui_enable_sound_variation|Enable Sound Variation
-ui_enable_vertex_shaders|Render Method:
-ui_shadow_quality|Shadow Quality:
+ui_texture_detail|Detalhe de textura:
+ui_max_frame_rate|Taxa máxima de quadros:
+ui_enable_bumpmap|Usar Bump Mapping
+ui_disable_blood|Ocultar sangue
+ui_disable_music|Desativar música
+ui_disable_sound|Desativar sons
+ui_enable_cheats|Habilitar cheats
+ui_enable_edit_mode|Habilitar Modo de Edição (Aviso, isto deixa o jogo lento.)
+ui_enable_pixel_shaders|Usar Pixel Shaders
+ui_enable_sound_variation|Habilitar variação de sons
+ui_enable_vertex_shaders|Método de Renderização:
+ui_shadow_quality|Qualidade da sombra:
 ui_directx_7|DirectX 7
 ui_directx_9|DirectX 9
-ui_show_framerate|Show Framerate
-ui_start_windowed|Start Windowed
-ui_trialmode_caption|Activation
+ui_show_framerate|Mostrar taxa de quadros
+ui_start_windowed|Iniciar em janela
+ui_trialmode_caption|Ativação
 ui_trialmode|Please take a moment to activate Mount&&Blade Warband with your serial key. Your unique, 16-digit serial key is included inside your boxed copy.\nIf you don't wish to activate the game now for any reason, you can still continue to play the game in trial mode, however you won't be able to advance past character level 8.
-ui_launch_buy|Buy a License from TaleWorlds.com
-ui_launch_faq|Activation Frequently Asked Questions
-ui_trialmode2|In order to activate the game now...
-ui_trialmode3|Or, you can also...
-ui_trialmode4|If you have any questions about the activation process, you can read...
-ui_serial_key_caption|Serial Key
-ui_notification_serial_input|Enter your serial key below (you can copy && paste it) and click on Activate button
-ui_activate|Activate
-ui_paste|Paste
-ui_notification_serial_internet_connection|Activation requires an active Internet Connection!
-ui_notification_serial_offline|If this computer does not have access to the Internet you can also use:
-ui_manual_activation|Manual Activation
-ui_offline_activation|Offline Activation
-ui_manual_activation_caption|Manual Activation
-ui_offline_activation_caption|Offline Activation
-ui_cancel2|Cancel
-ui_close|Close
+ui_launch_buy|Compre uma licença no TaleWorlds.com
+ui_launch_faq|Perguntas frequentes ativação
+ui_trialmode2|Para ativar o jogo agora...
+ui_trialmode3|Ou, você também pode...
+ui_trialmode4|Se você tem dúvidas sobre o processo de ativação, você pode ler...
+ui_serial_key_caption|Serial
+ui_notification_serial_input|Digite seu serial abaixo (você pode copiar e colá-lo) e em seguida clique no botão ativar
+ui_activate|Ativar
+ui_paste|Colar
+ui_notification_serial_internet_connection|A ativação requer uma conexão de Internet ativa!
+ui_notification_serial_offline|Se este computador não tiver acesso à Internet, você também pode usar:
+ui_manual_activation|Ativação manual
+ui_offline_activation|Ativação offline
+ui_manual_activation_caption|Ativação manual
+ui_offline_activation_caption|Ativação offline
+ui_cancel2|Cancelar
+ui_close|Fechar
 ui_ok2|OK
-ui_activation_successful|The game has been activated successfuly.
-ui_activation_successful2|Please keep your serial key for future reference. You may need it again in the future if you want to install Mount&&Blade Warband on a new computer.
-ui_activation_denied|Activation Denied!
+ui_activation_successful|O jogo foi ativado com sucesso.
+ui_activation_successful2|Por favor, mantenha seu serial para referência futura. Você pode precisar dele novamente no futuro, se você deseja instalar o Mount & Blade Warband em um novo computador.
+ui_activation_denied|Ativação negada!
 ui_notification_serial_already_used|Serial Key already used for another computer. You must wait for a few weeks to reactivate the game on this computer.
 ui_notification_unable_to_connect_to_activation_server|Unable to connect to activation server!
 ui_notification_unable_to_connect_to_activation_server2|Please make sure that your internet connection is active and working properly and try again. If you are using a firewall, you many need to give the game permission to access the internet. If all else fails, you may always use manual activation.
