@@ -16,7 +16,7 @@ ui_directx_9|DirectX 9
 ui_show_framerate|Mostrar taxa de quadros
 ui_start_windowed|Iniciar em janela
 ui_trialmode_caption|Ativação
-ui_trialmode|Please take a moment to activate Mount&&Blade Warband with your serial key. Your unique, 16-digit serial key is included inside your boxed copy.\nIf you don't wish to activate the game now for any reason, you can still continue to play the game in trial mode, however you won't be able to advance past character level 8.
+ui_trialmode|Por favor, tome um momento para ativar Mount&&Blade Warband com seu serial. Seu serial de 16 dígitos está incluído dentro de sua cópia na caixa.\nSe você não quiser ativar o jogo agora, por qualquer motivo, você ainda pode continuar a jogar o jogo no modo de teste, no entanto, você será capaz de avançar o nível do personagem até o nível 8.
 ui_launch_buy|Compre uma licença no TaleWorlds.com
 ui_launch_faq|Perguntas frequentes ativação
 ui_trialmode2|Para ativar o jogo agora...
@@ -36,73 +36,73 @@ ui_cancel2|Cancelar
 ui_close|Fechar
 ui_ok2|OK
 ui_activation_successful|O jogo foi ativado com sucesso.
-ui_activation_successful2|Por favor, mantenha seu serial para referência futura. Você pode precisar dele novamente no futuro, se você deseja instalar o Mount & Blade Warband em um novo computador.
+ui_activation_successful2|Por favor, mantenha seu serial para referência futura. Você pode precisar dele novamente no futuro, se você deseja instalar o Mount&&Blade Warband em um novo computador.
 ui_activation_denied|Ativação negada!
-ui_notification_serial_already_used|Serial Key already used for another computer. You must wait for a few weeks to reactivate the game on this computer.
-ui_notification_unable_to_connect_to_activation_server|Unable to connect to activation server!
-ui_notification_unable_to_connect_to_activation_server2|Please make sure that your internet connection is active and working properly and try again. If you are using a firewall, you many need to give the game permission to access the internet. If all else fails, you may always use manual activation.
-ui_incorrect_serial_number|Incorrect Serial Key!
-ui_incorrect_hardware_hash|Incorrect Hardware Hash!
-ui_incorrect_activation_code|Incorrect Activation Code!
-ui_cant_write_to_registry|Can't Write to Registry!
-ui_video|Video
-ui_audio|Audio
-ui_game|Game
-ui_advanced|Advanced
-ui_mount_and_blade_is_ready|Mount&&Blade Warband is ready.
-ui_notification_trial_mode|Mount&&Blade Warband is currently running in Trial Mode. In this mode you can play the game freely until your character reaches level 6. To continue further, please buy a license from taleworlds.com. It takes only a minute to buy a license online and unlock the complete mode.
-ui_there_are_no_modules_installed|There are no modules installed!
-ui_notification_new_version|A newer version of Mount&Blade Warband was found.\nCurrently installed version is %d.%d%d%d.\nLatest version of Mount&Blade Warband is %d.%d%d%d.\nYou can download the new version from www.taleworlds.com.
-ui_new_version_found|New Version Found!
-ui_notification_unable_to_retreive_new_version|Unable to retrieve new version info. Please try again later.
-ui_new_version|New Version:
-ui_notification_latest_version|The installed version of Mount&&Blade Warband is the most current one.
-ui_mount_and_blade_is_up_to_date|Mount&Blade Warband is up-to-date!
-ui_off|Off
-ui_continue_playing_the_trial_mode|Continue playing in Trial Mode
+ui_notification_serial_already_used|O serial já foi utilizado para outro computador. Você deve esperar por algumas semanas para reativar o jogo neste computador.
+ui_notification_unable_to_connect_to_activation_server|Não foi possível conectar ao servidor de ativação!
+ui_notification_unable_to_connect_to_activation_server2|Certifique-se de que a sua conexão à Internet está ativa e funcionando corretamente e tente novamente. Se você estiver usando um firewall, muitos precisam dar a permissão para o jogo acessar a internet. Se tudo isso falhar, você pode sempre usar a ativação manual.
+ui_incorrect_serial_number|Serial incorreto!
+ui_incorrect_hardware_hash|Hash de hardware incorreto!
+ui_incorrect_activation_code|Código de ativação incorreto!
+ui_cant_write_to_registry|Não foi possível escrever o registro!
+ui_video|Vídeo
+ui_audio|Áudio
+ui_game|Jogo
+ui_advanced|Avançado
+ui_mount_and_blade_is_ready|Mount&&Blade Warband está pronto.
+ui_notification_trial_mode|Mount&&Blade Warband está sendo executado no modo de teste. Neste modo, você pode jogar o jogo livremente até que seu personagem atinja o nível 6. Para continuar além disso, por favor compre uma licença no taleworlds.com. Leva apenas um minuto para comprar uma licença online e desbloquear o modo completo.
+ui_there_are_no_modules_installed|Não há módulos instalados!
+ui_notification_new_version|Uma versão mais recente de Mount&Blade Warband foi encontrada.\nAtualmente versão instalada é %d.%d%d%d.\nVersão mais recente do Mount&Blade Warband é %d.%d%d%d.\nVocê pode baixar a nova versão de www.taleworlds.com.
+ui_new_version_found|Nova versão encontrada!
+ui_notification_unable_to_retreive_new_version|Não foi possível obter informação nova versão. Por favor, tente novamente mais tarde.
+ui_new_version|Nova versão:
+ui_notification_latest_version|A versão instalada de Mount&&Blade Warband é a mais atual.
+ui_mount_and_blade_is_up_to_date|Mount&Blade Warband está atualizado!
+ui_off|Desligar
+ui_continue_playing_the_trial_mode|Continue jogando no modo de teste
 ui_faq_caption|FAQ
-ui_faq_text|Q: What is activation?\r\nA: The activation system is a user-friendly copy-protection method which is based on distributing a unique serial key along with each copy of the game. You need to activate the game once on every computer that you want to play the game with your serial key. After activating once, you don't need to do anything else to play such as keeping the game disc in the drive. As long as you keep your serial key, you will be able to activate and play the game easily, even after many years.\r\n\r\nQ: Where can I find my serial key?\r\nA: Each boxed copy of the game includes a unique serial key. Different vendors may distribute the keys in different ways, but it is typically attached to the cover of your printed manual. If you have purchased your game online, then the online vendor should supply you your serial key.\r\n\r\nQ: How does the activation process work?\r\nA: The game creates a hash-value from the specifications of your computer and sends it to an activation server over the internet together with your serial key. The activation server registers the serial key to your computer and responds with an activation number, which then unlocks the full mode of the game.\r\n\r\nQ: Can I activate the game on multiple computers?\r\nA: Yes, you can. But please remember that the game is licensed to you for your own personal use. The activation server may reject a serial key temporarily if it is used on too many computers in a short period of time. \r\n\r\nQ: The program stops to respond after I click on the activate button.\r\nA: Sometimes it may take up to half a minute to carry out the activation process. Be patient, the game will eventually report the result.\r\n\r\nQ: My computer does not have access to the internet. How can I activate the game?\r\nA: In this case you may use manual activation. Just click on "Enter Your Serial Key", and then "Manual Activation" buttons. You will still need to open up the manual activation web-page from another computer that is linked to the internet.\r\n
-ui_auto_adjust|Auto Adjust
-ui_screen_size|Screen Resolution:
-ui_antialiasing|Antialiasing:
-ui_use_desktop_resolution|Use Desktop Resolution
-ui_play|Play Mount&&Blade Warband
-ui_check_for_new_version|Check For New Version
-ui_configure|Configure
-ui_configure_caption|Configure
+ui_faq_text|P: O que é ativação?\r\nR: O sistema de ativação é um método amigável de proteção contra cópia que é baseado na distribuição de um serial único, juntamente com cada cópia do jogo. Você precisa ativar o jogo uma vez em cada computador que você quiser jogar o jogo com seu serial. Depois de ativar uma vez, você não precisa fazer mais nada para jogar, como manter CD do jogo na unidade de disco. Enquanto você manter o seu serial, você será capaz de ativar e jogar o jogo facilmente, mesmo depois de muitos anos.\r\n\r\nP: Onde posso encontrar o meu serial?\r\nR: Cada cópia em caixa do jogo inclui um serial único. Diferentes fornecedores pode distribuir os seriais de diferentes maneiras, mas é normalmente anexado à capa do seu manual impresso. Se você comprou o seu jogo on-line, o vendedor on-line deve lhe fornecer o seu serial.\r\n\r\nP: Como é que o processo de ativação funciona?\r\nR: O jogo cria um hash de valor a partir das especificações do seu computador e os envia para um servidor de ativação através da internet, juntamente com seu serial. O servidor de ativação registra o serial para o seu computador e responde com um número de ativação, que em seguida, abre o modo completo do jogo.\r\n\r\nP: Posso ativar o jogo em vários computadores?\r\nR: Sim você pode. Mas lembre-se que o jogo está licenciado para você para o seu uso próprio. O servidor de ativação pode rejeitar um serial temporariamente se ele for usado em muitos computadores em um curto período de tempo. \r\n\r\nP: O programa para de responder depois que eu clico no botão Ativar.\r\nR: Algumas vezes pode levar até meio minuto para realizar o processo de ativação. Seja paciente, o jogo acabará informando o resultado.\r\n\r\nP: Meu computador não tem acesso à internet. Como posso ativar o jogo?\r\nR: Neste caso, você pode usar a ativação manual. Basta clicar em "Digite seu serial", e em seguida, no botão "Ativação Manual". Você ainda vai precisar para abrir a página web da ativação manual de outro computador que esteja ligado à internet.\r\n
+ui_auto_adjust|Ajuste automático
+ui_screen_size|Resolução de tela:
+ui_antialiasing|Anti-aliasing:
+ui_use_desktop_resolution|Usar resolução do Desktop
+ui_play|Jogar Mount&&Blade Warband
+ui_check_for_new_version|Procurar nova versão
+ui_configure|Configurar
+ui_configure_caption|Configurar
 ui_mountandblade_website|Mount & Blade Warband Website
-ui_current_setting|           Current Module:
-ui_manual_activation_text1|1) In your web browser, open the following address:
-ui_manual_activation_text2|2) In the webpage that opens enter your serial key...
-ui_manual_activation_text3|3) ...and this machine's hardware hash:
-ui_manual_activation_text4|4) The page will then give you an activation code. Enter or paste it below and click OK.
-ui_activation_code|Activation Code:
-ui_force_vsync|Force Vertical Sync.
-ui_module_newer_than_application|The module you selected has been specified NOT TO WORK with the current version of the game. You are strongly advised not to run this setting. To remedy this, you may try checking for a newer version of the game.
-ui_module_older_than_application|The module you selected has been created for an older version of the game and may not work with the current version of the game. You may go ahead and try running it but there is a chance that you will run into difficulties. To remedy this, you may check if a newer version of the module is available.
-ui_m_low|Low
-ui_m_high|High
-ui_m_ultra_high|Ultra High
-ui_force_single_threading|Force Single Threading
-ui_not_enough_memory|It seems that you currently have %d MB of available total physical and virtual memory. Mount&Blade Warband requires at least 700 MB of available memory in order to run without a problem. If Mount&Blade Warband continuously crashes during your play, please close some of your programs before starting Mount&Blade Warband or increase your virtual memory from Control Panel -> System menu.
-ui_install|Install Mount&Blade Warband
-DirectXText|"Mount&Blade Warband requires DirectX 9.0c or above to run. This computer does not meet the requirement. To fix the problem you need to download and install the latest version of DirectX from Microsoft's website. Would you like to visit TaleWorlds DirectX Download page now?"
-NoMountAndBladeText|"Mount&Blade Warband has not been installed on this computer. Please download the full installer from www.taleworlds.com and use it to install the game."
-ui_SavegamesText|"Do you want to keep your save files?"
-ui_trialmode_online|Mount&&Blade Warband is currently running in Trial Mode. In this mode you can play the game freely until your character reaches level 7. To continue further, you need to enter a serial key and activate the game. If you have already purchased the game, please enter your serial key now. If not you may easily purchase the game from Taleworlds.com. It takes only a minute to buy a license online and unlock the complete mode.
-ui_launch_activate|Enter Your Serial Key
-ui_trialmode2_online|After buying a license, you will obtain your serial key.\nTo unlock the full mode just proceed to...
-ui_trialmode3_online|Or, if you don't wish to purchase the game yet you can also...
-ui_trialmode4_online|Our online sales process is fully secure and we greatly respect our customers' rights to security, privacy, having backup copies of their game and upgrading their computers/hardware. If you'd like to learn more about our sales policy, please take a look at:
-ui_ondemand_textures|Load Textures On Demand
-ui_language|Language:
-ui_steam_not_running|Steam could not be initialized properly. Steam must be running to play this game.
+ui_current_setting|           Módulo atual:
+ui_manual_activation_text1|1) Em seu navegador, abra o seguinte endereço:
+ui_manual_activation_text2|2) Na página da web que abrir digite seu serial...
+ui_manual_activation_text3|3) ...e hash de hardware desta máquina:
+ui_manual_activation_text4|4) A página irá em seguida dar um código de ativação. Digite ou cole-o abaixo e clique em OK.
+ui_activation_code|Código de ativação:
+ui_force_vsync|Forçar sincronização vertical.
+ui_module_newer_than_application|O módulo selecionado NÃO FUNCIONA com a versão atual do jogo. Está fortemente aconselhado a não executar essa configuração. Para corrigir isso, você pode tentar verificar se há uma versão mais recente do jogo.
+ui_module_older_than_application|O módulo selecionado foi criado para uma versão mais antiga do jogo e pode não funcionar com a versão atual do jogo. Você pode ir em frente e tente executá-lo, mas há uma chance de que você vai encontrará dificuldades. Para corrigir isso, você pode verificar se uma nova versão do módulo está disponível.
+ui_m_low|Baixo
+ui_m_high|Alto
+ui_m_ultra_high|Ultra alto
+ui_force_single_threading|Força Thread única
+ui_not_enough_memory|Parece que você tem atualmente %d MB de memória total, física e virtual disponíveis. Mount&Blade Warband requer pelo menos 700 MB de memória disponível para executar sem problemas. Se Mount&Blade Warband falhar continuamente durante a sua execução, por favor, feche alguns dos seus programas antes de iniciar Mount&Blade Warband ou aumente a memória virtual a partir de Painel de Controle -> menu do Sistema.
+ui_install|Instalar Mount&Blade Warband
+DirectXText|"Mount&Blade Warband requer DirectX 9.0c ou superior para ser executado. Este computador não atende ao requisito. Para corrigir o problema, é necessário baixar e instalar a última versão do DirectX a partir do site da Microsoft. Gostaria de visitar a página de download do TaleWorlds DirectX agora?"
+NoMountAndBladeText|"Mount&Blade Warband não foi instalado neste computador. Faça o download do instalador completo através do www.taleworlds.com e use para instalar o jogo."
+ui_SavegamesText|"Você deseja manter seus arquivos salvos?"
+ui_trialmode_online|Mount&&Blade Warband está sendo executado no modo de teste. Neste modo, você pode jogar o jogo livremente até que seu personagem atinja o nível 7. Para prosseguir, você precisa inserir um serial e ativar o jogo. Se você já comprou o jogo, digite seu serial agora. Se não, você poderá facilmente comprar o jogo através da Taleworlds.com. Leva apenas um minuto para comprar uma licença online e desbloquear o modo completo.
+ui_launch_activate|Digite seu serial
+ui_trialmode2_online|Depois de comprar uma licença, você vai obter a seu serial.\nPara desbloquear o modo completo apenas avançe para ...
+ui_trialmode3_online|Ou, se você não quiser comprar o jogo você também pode...
+ui_trialmode4_online|O nosso processo de vendas on-line é totalmente seguro e nós respeitamos muito os direitos dos nossos clientes a segurança, privacidade, ter cópias de segurança de seu jogo e atualizar seus computadores/hardware. Se você desejar saber mais sobre a nossa política de vendas, por favor, dê uma olhada:
+ui_ondemand_textures|Carregar texturas por demanda
+ui_language|Idioma:
+ui_steam_not_running|Steam não pôde ser inicializado corretamente. Steam deve estar em execução para jogar este jogo.
 ui_switch_to_turkish_explanation|Oyunun dilini Turkce'ye cevirmek ister misiniz?
 ui_switch_to_turkish_yes|Evet
 ui_switch_to_turkish_no|Hayir
-ui_new_version_message|A newer version of the game is available. Do you wish to visit the download page now?
-ui_enable_version_check|Enable Version Check
-ui_disable|Disable
-ui_yes2|Yes
-ui_no2|No
-ui_new_version_message2|A newer version of the game is available. Please visit the online portal you purchased the game from to download the new version.
+ui_new_version_message|Uma nova versão do jogo está disponível. Você deseja visitar a página de download agora?
+ui_enable_version_check|Ativar verificar versão
+ui_disable|Desabilitar
+ui_yes2|Sim
+ui_no2|Não
+ui_new_version_message2|Uma nova versão do jogo está disponível. Por favor, visite o portal online você comprou o jogo para fazer o download da nova versão.
