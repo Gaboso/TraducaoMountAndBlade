@@ -1,99 +1,99 @@
 ﻿lockitver|DO NOT DELETE THIS LINE! 2698
-ui_music_volume|Music Volume:
-ui_sound_volume|Sound Volume:
-ui_mouse_sensitivity|Mouse Sensitivity:
-ui_invert_mouse_y_axis|Invert Mouse Y Axis
-ui_enabled|Enabled
-ui_disabled|Disabled
-ui_damage_to_player|Damage to Player:
-ui_reduced_to_1_over_4_easiest|Reduced to 1/4 (Easiest)
-ui_reduced_to_1_over_2_easy|Reduced to 1/2 (Easy)
-ui_damage_to_friends|Damage to Friends:
-ui_reduced_to_1_over_2_easiest|Reduced to 1/2 (Easiest)
-ui_reduced_to_3_over_4_easy|Reduced to 3/4 (Easy)
+ui_music_volume|Volume da música:
+ui_sound_volume|Volume do som:
+ui_mouse_sensitivity|Sensibilidade do mouse:
+ui_invert_mouse_y_axis|Inverter o eixo Y do mouse
+ui_enabled|Ativado
+ui_disabled|Desativado
+ui_damage_to_player|Danos ao jogador:
+ui_reduced_to_1_over_4_easiest|Reduzido a 1/4 (mais fácil)
+ui_reduced_to_1_over_2_easy|Reduzido a 1/2 (fácil)
+ui_damage_to_friends|Danos aos amigos:
+ui_reduced_to_1_over_2_easiest|Reduzido a 1/2 (mais fácil)
+ui_reduced_to_3_over_4_easy|Reduzido a 3/4 (Fácil)
 ui_normal|Normal
-ui_combat_ai|Combat AI:
-ui_combat_speed|Combat Speed:
-ui_good|Good
-ui_average_caps|Average
-ui_poor|Poor
-ui_faster|Faster
-ui_slower|Slower
-ui_control_block_direction|Control Block Direction:
-ui_automatic_recommended|Automatic
-ui_manual_easy|Manual (Easy)
-ui_manual_hard|Manual (Hard)
-ui_by_mouse_movement|By mouse movement
-ui_control_attack_direction|Control Attack Direction:
-ui_lance_control|Lance Control:
-ui_by_relative_enemy_position|By relative enemy position
-ui_by_inverse_mouse_movement|By inverse mouse movement
-ui_battle_size|Battle Size:
-ui_show_attack_direction|Show Attack Direction
-ui_show_targeting_reticule|Show Targeting Reticle
-ui_show_names_of_friendly_troops|Show Banners on Friendly Troops
-ui_report_damage|Report Damage
-ui_report_shot_difficulty|Report Shot Difficulty
-ui_difficulty_rating_percentage|Difficulty Rating = %d%%
-ui_controls|Controls
-ui_video_options|Video Options
-ui_done|Done
-ui_factions|Factions
+ui_combat_ai|AI de combate:
+ui_combat_speed|Velocidade de combate:
+ui_good|Bom
+ui_average_caps|Média
+ui_poor|Pobre
+ui_faster|Mais rápido
+ui_slower|Mais devagar
+ui_control_block_direction|Controle de direção do bloqueio:
+ui_automatic_recommended|Automático
+ui_manual_easy|Manual (Fácil)
+ui_manual_hard|Manual (Difícil)
+ui_by_mouse_movement|Pelo movimento do mouse
+ui_control_attack_direction|Controle de direção de ataque:
+ui_lance_control|Controle da lança:
+ui_by_relative_enemy_position|Por posição relativa ao inimigo
+ui_by_inverse_mouse_movement|Pelo movimento invertido do mouse
+ui_battle_size|Tamanho da batalha:
+ui_show_attack_direction|Mostrar direção de ataque
+ui_show_targeting_reticule|Mostrar segmentação de retículo
+ui_show_names_of_friendly_troops|Mostrar estandartes sob tropas aliadas
+ui_report_damage|Relatório de danos
+ui_report_shot_difficulty|Relatório de dificuldade de tiro
+ui_difficulty_rating_percentage|Dificuldade de classificação = %d%%
+ui_controls|Controles
+ui_video_options|Opções de vídeo
+ui_done|Feito
+ui_factions|Facções
 ui_item_itemname|Item - %s
 ui_prop_propname|Prop - %s
-ui_unknown_unknownname|Unknown - %s
-ui_entry_point_entrypointname|Entry Point %d
-ui_passage_menu_item_passagename|Passage (menu item %d)
-ui_plant_plantname|Plant - %s
-ui_export_file_for_character_playername_already_exists_overwrite_it|Export file for character %s already exists. Overwrite it?
-ui_yes|Yes
-ui_no|No
-ui_set_save_file_name|Enter a name for this save-game:
-ui_enter_new_name|Enter a new name:
-ui_export_character|Export Character
-ui_import_character|Import Character
-ui_character_playername_exported_successfully|Character %s exported successfully.
-ui_character_playername_imported_successfully|Character %s imported successfully.
-ui_unable_to_open_import_file|Unable to open import file.
-ui_are_you_sure_you_want_to_import_the_character|Are you sure you want to import the character?
-ui_unable_to_find_character_import_file|Unable to find character import file.
-ui_mount_and_blade_is_running_in_trial_mode_please_buy_the_game_for_importing_a_character|Mount&Blade is running in trial mode. Please buy the game for importing a character.
-ui_change_skin|Skin
-ui_change_hair|Hair
-ui_change_hair_color|Hair Color
-ui_change_beard|Beard
+ui_unknown_unknownname|Desconhecido - %s
+ui_entry_point_entrypointname|Ponto de entrada %d
+ui_passage_menu_item_passagename|Passagem (item de menu %d)
+ui_plant_plantname|Planta - %s
+ui_export_file_for_character_playername_already_exists_overwrite_it|O arquivo de exportação para o personagem %s já existe. Deseja sobrescrever?
+ui_yes|Sim
+ui_no|Não
+ui_set_save_file_name|Digite um nome para este save:
+ui_enter_new_name|Insira um novo nome:
+ui_export_character|Exportar personagem
+ui_import_character|Importar personagem
+ui_character_playername_exported_successfully|Personagem %s exportado com successo.
+ui_character_playername_imported_successfully|Personagem %s importado com successo.
+ui_unable_to_open_import_file|Não foi possível abrir o arquivo de importação.
+ui_are_you_sure_you_want_to_import_the_character|Tem certeza de que deseja importar o personagem?
+ui_unable_to_find_character_import_file|Não foi possível localizar arquivo de importação do personagem.
+ui_mount_and_blade_is_running_in_trial_mode_please_buy_the_game_for_importing_a_character|Mount&Blade está em execução no modo de teste. Por favor, comprar o jogo para importar um personagem.
+ui_change_skin|Pele
+ui_change_hair|Cabelo
+ui_change_hair_color|Cor de cabelo
+ui_change_beard|Barba
 ui_tutorial|Tutorial
-ui_tutorial_face_generator|Adjust your character's face using the buttons and the sliders. To rotate the head, click on it and drag the mouse.
-ui_restore|Load
-ui_cancel|Cancel
-ui_delete|Delete
-ui_confirm_delete_game|Are you sure you want to delete this game?
-ui_error_removing_file|Error removing file...
-ui_day_datedisplay|Day %d (%d:%d%d)
-ui_reset_changes|Reset Changes
-ui_weapon_proficiencies|Proficiencies
-ui_skills|Skills
-ui_attributes|Attributes
-ui_enter_name_here|*Enter Name Here*
-ui_edit_face|Click to edit face
-ui_statistics|Statistics
-ui_next|Next
-ui_prev|Prev
-ui_learn|Learn
-ui_question_saving_policy|What will the game's saving policy be?
-ui_saving_policy_realistic|Realistic! No quitting without saving!
-ui_saving_policy_nonrealistic|Allow me to quit without saving.
-ui_tutorial_character_generation|Now enter your name and distribute your attribute, skill and weapon points. You can click on various elements on the screen to learn how each one will affect your character.
-ui_str|STR
+ui_tutorial_face_generator|Ajuste o rosto de seu personagem usando os botões e os controles deslizantes. Para girar a cabeça, clique nela e arraste o mouse.
+ui_restore|Carregar
+ui_cancel|Cancelar
+ui_delete|Excluir
+ui_confirm_delete_game|Tem certeza de que deseja excluir este jogo?
+ui_error_removing_file|Erro ao remover arquivo...
+ui_day_datedisplay|Dia %d (%d:%d%d)
+ui_reset_changes|Desfazer alterações
+ui_weapon_proficiencies|Proficiências
+ui_skills|Habilidades
+ui_attributes|Atributos
+ui_enter_name_here|*Insira o nome aqui*
+ui_edit_face|Clique para editar o rosto
+ui_statistics|Estatísticas
+ui_next|Próximo
+ui_prev|Anterior
+ui_learn|Aprender
+ui_question_saving_policy|Qual será a política de salvamento do jogo ser?
+ui_saving_policy_realistic|Realista! Não sair sem salvar!
+ui_saving_policy_nonrealistic|Permita-me sair sem salvar.
+ui_tutorial_character_generation|Agora digite seu nome e distribua os seus atributos, habilidades e pontos de armas. Você pode clicar em vários elementos na tela para saber como cada um vai afetar o seu personagem.
+ui_str|FOR
 ui_agi|AGI
 ui_int|INT
-ui_cha|CHA
-ui_at_learning_limit|(At learning limit)
-ui_not_enough_skill_points_to_learn|(Not enough skill points to learn)
-ui_strength|strength
-ui_agility|agility
-ui_intelligence|intelligence
-ui_charisma|charisma
+ui_cha|CAR
+ui_at_learning_limit|(No limite de aprendizagem)
+ui_not_enough_skill_points_to_learn|(Não há pontos de habilidade suficiente para apreender)
+ui_strength|força
+ui_agility|agilidade
+ui_intelligence|inteligência
+ui_charisma|carisma
 ui_not_enough_attributetype_to_learn_this_skill|(Not enough %s to learn this skill)
 ui_explanation_one_handed_weapon|Covers usage of one handed swords, axes and blunt weapons.
 ui_explanation_two_handed_weapon|Covers usage of two handed swords, great axes and mauls.
