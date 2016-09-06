@@ -37,7 +37,7 @@ ui_report_shot_difficulty|Relatório de dificuldade de tiro
 ui_difficulty_rating_percentage|Dificuldade de classificação = %d%%
 ui_controls|Controles
 ui_video_options|Opções de vídeo
-ui_done|Feito
+ui_done|Confirmar
 ui_factions|Facções
 ui_item_itemname|Item - %s
 ui_prop_propname|Prop - %s
@@ -198,9 +198,9 @@ ui_fighting_against|Fighting against
 ui_speed_equals|Speed = %2.1f
 ui_defenders|Garrison:
 ui_prisoners|Prisoners:
-ui_1_hour|1 hour
-ui_n_hours|%d hours
-ui_between_hours|%d - %d hours
+ui_1_hour|1 hora
+ui_n_hours|%d horas
+ui_between_hours|%d - %d horas
 ui_combatants|Combatants: %d
 ui_party_size|Party size: %d
 ui_party_size_between|Party size: %d - %d
@@ -208,8 +208,8 @@ ui_merchant|Merchant
 ui_return|Return
 ui_no_cost|No cost
 ui_rename|Rename
-ui_use|Use
-ui_destroy|Destroy
+ui_use|Usar
+ui_destroy|Destroir
 ui_destructible_target|Destructible target
 ui_tutorial_inventory|This is the trade screen. Hold down control key while clicking on an item to quickly purchase or sell it.
 ui_head_armor|Head Armor: %d
@@ -370,7 +370,7 @@ ui_some_soldiers_are_ready_to_upgrade|Some soldiers are ready to upgrade.
 ui_number_of_companions_exceeds_leadership_limit| Number of companions exceeds leadership limit.
 ui_number_of_prisoners_exceeds_prisoner_management_limit| Number of prisoners exceeds prisoner management limit.
 ui_party_morale_is_low| Party morale is low!
-ui_and_one_space| and
+ui_and_one_space| e
 ui_has_deserted_the_party| has deserted the party.
 ui_have_deserted_the_party| have deserted the party.
 ui_weekly_report|Weekly report
@@ -398,11 +398,11 @@ ui_lost_number_value|Lost %d %s.
 ui_set_default_keys|Set default keys
 ui_undo_changes|Undo changes
 ui_press_a_key|Press a key
-ui_return_to_game|Return to Game
-ui_options|Options
-ui_save_and_exit|Save & Exit
-ui_save|Save
-ui_save_as|Save As
+ui_return_to_game|Retornar ao jogo
+ui_options|Opções
+ui_save_and_exit|Salvar & Sair
+ui_save|Salvar
+ui_save_as|Salvar como
 ui_quit_without_saving|Quit without Saving
 ui_empty_slot|Empty Slot
 ui_game_saved|Game saved...
@@ -434,7 +434,7 @@ ui_change_graphics_settings_explanation|Some changes you have made will take eff
 ui_start_tutorial|Play Tutorial
 ui_start_a_new_game|Start a New Game
 ui_restore_a_saved_game|Load Game
-ui_exit_to_windows|Exit
+ui_exit_to_windows|Sair
 ui_credits|Credits
 ui_version_value|v%s
 ui_active_quests|Active Quests
@@ -484,26 +484,26 @@ ui_map_controls|Map Controls
 ui_general_controls|General Controls
 ui_zoom_in|Zoom In
 ui_zoom_out|Zoom Out
-ui_wait|Wait
+ui_wait|Espere
 ui_take_screenshot|Take Screenshot
 ui_randomize|Randomize
-ui_hint|Hint
+ui_hint|Dica
 ui_press_left_mouse_button_to_continue|Press left mouse button to continue...
 ui_loot|Loot
 ui_chest|Chest
 ui_cut_short|c
 ui_pierce_short|p
 ui_blunt_short|b
-ui_battle|Battle
-ui_siege|Siege
-ui_troops|Troops:
+ui_battle|Batalha
+ui_siege|Cerco
+ui_troops|Tropas:
 ui_loading_module_info_file|Loading Module Info File...
 ui_processing_ini_file|Processing INI File...
-ui_loading_music|Loading Music...
-ui_loading_data|Loading Data...
+ui_loading_music|Carregando música...
+ui_loading_data|Carregando dados...
 ui_loading_setting_data|Loading Setting Data...
 ui_loading_textures|Loading Textures...
-ui_finished|Finished.
+ui_finished|Finalizado.
 ui_creating_game|Creating Game...
 ui_loading_savegame_file|Loading Savegame File...
 ui_loading_map_file|Loading Map File...
@@ -591,8 +591,8 @@ ui_change|Change
 ui_how_to_change|How to change this?
 ui_change_directx_explanation|You can change the render method between DirectX 7 and DirectX 9 by clicking on the Configure button at the launch menu that comes up when you first start the game.
 ui_dropping_picking_up|Dropping %s; picking up %s.
-ui_dropping|Dropping %s.
-ui_picking_up|Picking up %s.
+ui_dropping|Jogando fora %s.
+ui_picking_up|Pegando %s.
 ui_unable_to_take|Unable to take that.
 ui_age|Age
 ui_cannot_be_used_on_horseback|Cannot be used on horseback
@@ -615,9 +615,9 @@ ui_group_6|Unnamed 3
 ui_group_7|Unnamed 4
 ui_group_8|Unnamed 5
 ui_group_9|Unnamed 6
-ui_group_rename|Rename Group
-ui_group_close|Close
-ui_party_b_group_information|%s belongs to %s group
+ui_group_rename|Renomear grupo
+ui_group_close|Fechar
+ui_party_b_group_information|%s pertence ao %s grupo
 ui_thrown_or_s|Thrown/%s
 ui_ranged_damage|Ranged: %d%s
 ui_overall_quality|Overall Quality
@@ -629,46 +629,46 @@ ui_use_depth_effects|Use Depth Effects
 ui_hdr_mode|HDR Mode:
 ui_autoexpore|Auto-exposure
 ui_choose_profile|Choose Profile
-ui_create|Create
-ui_edit|Edit
+ui_create|Criar
+ui_edit|Editar
 ui_join_game|Join a Game
 ui_host_game|Host a Game
 ui_custom|Custom
 ui_medium|Medium
-ui_male|Male
-ui_female|Female
-ui_gender|Choose Gender:
-ui_edit_profile|Edit Profile
-ui_new_profile|New Profile
-ui_enter_username|Enter Username:
-ui_invalid_username|Usernames may only contain letters, numbers or _ - * [ ] ~ characters.
-ui_confirmation|Are you sure?
+ui_male|Masculino
+ui_female|Feminino
+ui_gender|Escolher um gênero:
+ui_edit_profile|Editar perfil
+ui_new_profile|Novo perfil
+ui_enter_username|Digite o nome do usuário:
+ui_invalid_username|O nome do usuário só pode conter letras, números ou os seguintes caracteres _ - * [ ] ~.
+ui_confirmation|Tem certeza?
 ui_multiplayer|Multiplayer
-ui_server_name|Server
-ui_module_name|Module
+ui_server_name|Servidor
+ui_module_name|Módulo
 ui_game_type|Game Type
-ui_map_name|Map
+ui_map_name|Mapa
 ui_ping|Ping
-ui_dedicated|Dedicated
-ui_number_of_players|Players
-ui_password_protected|Password
+ui_dedicated|Dedicado
+ui_number_of_players|Jogadores
+ui_password_protected|Senha
 ui_connect|Connect
 ui_local_area_network|Local Area Network
 ui_internet|Internet
-ui_favorites|Favorites
+ui_favorites|Favoritos
 ui_source|Source:
-ui_server_password|Server Password:
-ui_refresh|Refresh
-ui_start_search|Start Search
-ui_add_to_favorites|Add to Favorites
-ui_remove_from_favorites|Remove from Favorites
+ui_server_password|Senha do servidor:
+ui_refresh|Recarregar
+ui_start_search|Iniciar busca
+ui_add_to_favorites|Adicionar ao favoritos
+ui_remove_from_favorites|Remover do favoritos
 ui_use_speedtree|Use Speedtree
 ui_use_instancing|Use Instancing
-ui_error|Error
-ui_error_server_full|Server is full.
+ui_error|Erro
+ui_error_server_full|Servidor está cheio.
 ui_error_server_full_for_non_private|Server is full for players without a private member password.
-ui_error_server_password_incorrect|Incorrect password.
-ui_error_incorrect_serial|Incorrect serial number.
+ui_error_server_password_incorrect|Senha incorreta.
+ui_error_incorrect_serial|Serial incorreto.
 ui_error_incorrect_authorization_key|Incorrect authorization key.
 ui_error_banned_from_server|You are banned from this server.
 ui_error_username_taken|Your profile name is used by another player.
@@ -686,21 +686,21 @@ ui_authenticating_with_steam|Authenticating with Steam...
 ui_validating_serial_number|Validating serial number...
 ui_scanning_lan|Scanning local area network...
 ui_retrieving_servers|Retrieving server list...
-ui_shield_size2|Size: %dx%d
+ui_shield_size2|Tamanho: %dx%d
 ui_click_to_view_notes|Click to view notes
 ui_retrieving_server_infos|Retrieving information from servers (%d)...
-ui_connecting_to_server|Connecting to server...
+ui_connecting_to_server|Conectando ao servidor...
 ui_requesting_to_join_the_game|Requesting to join the game...
-ui_loading|Loading...
+ui_loading|Carregando...
 ui_group_value_control|Group %d!
-ui_drop_weapon|Drop Weapon
+ui_drop_weapon|Jogar fora a arma
 ui_multiplayer_message_all|Send Message to Everyone
 ui_multiplayer_message_team|Send Message to Team
 ui_command_line|Command Line
 ui_use_ranged_weapon_as_melee|Toggle Weapon Mode
 ui_send_message_all|Send Message to Everyone
 ui_send_message_team|Send Message to Team
-ui_select|Select
+ui_select|Selecionar
 ui_context_menu|Context Menu
 ui_round_starts_in_value_seconds|Round starts in %d seconds...
 ui_watching_value|Following %s
@@ -722,27 +722,27 @@ ui_turn_camera_with_horse|Turn Camera with Horse in First Person:
 ui_widescreen_mode_on|Multiple Screen Mode Enabled
 ui_widescreen_mode_off|Multiple Screen Mode Disabled
 ui_notification_cant_upgrade|(Can't upgrade: not enough money)
-ui_turn_never|Never
+ui_turn_never|Nunca
 ui_turn_ranged_only|Ranged only
 ui_turn_melee_only|Melee only
-ui_turn_always|Always
+ui_turn_always|Sempre
 ui_general_options|General Options
 ui_vac_enabled|Valve Anti Cheat Enabled
 ui_campaign_ai|Campaign AI:
-ui_downloading_map|Downloading map (%d KB)
-ui_download_completed|Download completed.
+ui_downloading_map|Download do mapa em execução (%d KB)
+ui_download_completed|Download completo.
 ui_server_filter|Server filter
 ui_has_players|Has players
 ui_is_not_full|Not full
-ui_is_password_free|No password
+ui_is_password_free|Sem senha
 ui_native_only|Native only
 ui_ping_limit|Ping limit
 ui_filter_info|%d games and %d players filtered
 ui_is_version_compatible|Compatible with module
 ui_ttnet_account|TTNET Oyun account
-ui_username|Username
-ui_password|Password
-ui_error_incorrect_username_or_password|Incorrect username or password
+ui_username|Usuário
+ui_password|Senha
+ui_error_incorrect_username_or_password|Usuário ou senha incorretos
 ui_validating_account|Validating account...
 ui_plase_enter_your_serial_key|Please enter your serial key
 ui_texture_detail2|Texture Detail:
