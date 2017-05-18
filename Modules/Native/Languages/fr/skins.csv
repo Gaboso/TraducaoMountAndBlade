@@ -1,7 +1,7 @@
-﻿lockitver|DO NOT DELETE THIS LINE! 2698
-skinkey_chin_size|Tamanho do queixo 
+lockitver|DO NOT DELETE THIS LINE! 2698
+skinkey_chin_size|Tamanho do queixo
 skinkey_chin_shape|Formato do queixo
-skinkey_chin_forward|Queixo proeminente
+skinkey_chin_forward|Avanço do queixo
 skinkey_jaw_width|Largura da mandíbula
 skinkey_jaw_position|Posição da mandíbula
 skinkey_mouth_nose_distance|Distância do nariz da boca
@@ -11,8 +11,8 @@ skinkey_nose_height|Altura do nariz
 skinkey_nose_width|Largura do nariz
 skinkey_nose_size|Tamanho do nariz
 skinkey_nose_shape|Formato do nariz
-skinkey_nose_bridge|Ponta do nariz
-skinkey_cheek_bones|Maça do rosto
+skinkey_nose_bridge|Ponte nasal
+skinkey_cheek_bones|Maçã do rosto
 skinkey_eye_width|Largura do olho
 skinkey_eye_to_eye_dist|Distância entre os olhos
 skinkey_eye_shape|Formato dos olhos
@@ -20,10 +20,10 @@ skinkey_eye_depth|Profundidade dos olhos
 skinkey_eyelids|Pálpebras
 skinkey_eyebrow_position|Posição das sobrancelhas
 skinkey_eyebrow_height|Altura das sobrancelhas
-skinkey_eyebrow_depth|Profundidade das Sobrancelhas
+skinkey_eyebrow_depth|Profundidade das sobrancelhas
 skinkey_eyebrow_shape|Forma das sobrancelhas
-skinkey_temple_width|largura dos templos
-skinkey_face_depth|Profundidade da Face
+skinkey_temple_width|Largura das tempôras
+skinkey_face_depth|Profundidade do rosto
 skinkey_face_ratio|Proporções faciais
 skinkey_face_width|Largura do rosto
-skinkey_post_edit|Finalizar personalização
+skinkey_post_edit|Pós-edição
