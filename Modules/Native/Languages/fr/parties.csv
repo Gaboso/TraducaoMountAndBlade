@@ -1,4 +1,3 @@
-﻿lockitver|DO NOT DELETE THIS LINE! 2698
 p_zendar|Zendar
 p_town_1|Sargoth
 p_town_2|Tihr
@@ -18,11 +17,15 @@ p_town_15|Yalen
 p_town_16|Dhirim
 p_town_17|Ichamur
 p_town_18|Narra
+p_town_19|Shariz
+p_town_20|Durquba
+p_town_21|Ahmerrad
+p_town_22|Bariyye
 p_castle_1|Castelo de Culmarr
 p_castle_2|Castelo de Malayurg
 p_castle_3|Castelo de Bulugha
 p_castle_4|Castelo de Radoghir
-p_castle_5|Castelo de Tehlorg
+p_castle_5|Castelo de Tehlrog
 p_castle_6|Castelo de Tilbaut
 p_castle_7|Castelo de Sungetche
 p_castle_8|Castelo de Jeirbe
@@ -32,14 +35,14 @@ p_castle_11|Castelo de Curin
 p_castle_12|Castelo de Chalbek
 p_castle_13|Castelo de Kelredan
 p_castle_14|Castelo de Maras
-p_castle_15|Castelo d'Ergellon
-p_castle_16|Castelo d'Almerra
+p_castle_15|Castelo de Ergellon
+p_castle_16|Castelo de Almerra
 p_castle_17|Castelo de Distar
-p_castle_18|Castelo d'Ismirala
-p_castle_19|Castelo d'Yruma
+p_castle_18|Castelo de Ismirala
+p_castle_19|Castelo de Yruma
 p_castle_20|Castelo de Derchios
-p_castle_21|Castelo d'Ibdeles
-p_castle_22|Castelo d'Unuzdaq
+p_castle_21|Castelo de Ibdeles
+p_castle_22|Castelo de Unuzdaq
 p_castle_23|Castelo de Tevarin
 p_castle_24|Castelo de Reindi
 p_castle_25|Castelo de Ryibelet
@@ -47,17 +50,25 @@ p_castle_26|Castelo de Senuzgda
 p_castle_27|Castelo de Rindyar
 p_castle_28|Castelo de Grunwalder
 p_castle_29|Castelo de Nelag
-p_castle_30|Castelo d'Asugan
+p_castle_30|Castelo de Asugan
 p_castle_31|Castelo de Vyincourd
 p_castle_32|Castelo de Knudarr
-p_castle_33|Castelo d'Etrosq
-p_castle_34|Castelo d'Hrus
-p_castle_35|Castelo d'Haringoth
+p_castle_33|Castelo de Etrosq
+p_castle_34|Castelo de Hrus
+p_castle_35|Castelo de Haringoth
 p_castle_36|Castelo de Jelbegi
 p_castle_37|Castelo de Dramug
 p_castle_38|Castelo de Tulbuk
 p_castle_39|Castelo de Slezkh
-p_castle_40|Castelo d'Uhhun
+p_castle_40|Castelo de Uhhun
+p_castle_41|Castelo de Jameyyed
+p_castle_42|Castelo de Teramma
+p_castle_43|Castelo de Sharwa
+p_castle_44|Castelo de Durrin
+p_castle_45|Castelo de Caraf
+p_castle_46|Castelo de Weyyah
+p_castle_47|Castelo de Samarra
+p_castle_48|Castelo de Bardaq
 p_village_1|Yaragar
 p_village_2|Burglen
 p_village_3|Azgad
@@ -148,14 +159,41 @@ p_village_87|Udiniad
 p_village_88|Tulbuk
 p_village_89|Uhhun
 p_village_90|Jamiche
+p_village_91|Ayn Assuadi
+p_village_92|Dhibbain
+p_village_93|Qalyut
+p_village_94|Mazigh
+p_village_95|Tamnuh
+p_village_96|Habba
+p_village_97|Sekhtem
+p_village_98|Mawiti
+p_village_99|Fishara
+p_village_100|Iqbayl
+p_village_101|Uzgha
+p_village_102|Shibal Zumr
+p_village_103|Mijayet
+p_village_104|Tazjunat
+p_village_105|Aab
+p_village_106|Hawaha
+p_village_107|Unriya
+p_village_108|Mit Nun
+p_village_109|Tilimsal
+p_village_110|Rushdigh
 p_salt_mine|Mina de Sal
-p_four_ways_inn|Aubergue dos Quatros Chemins
-p_test_scene|Zona Teste
-p_battlefields|Campos de Batalha
-p_dhorak_keep|Dungeon de Dhorak
-p_training_ground|Campo de Treino
-p_training_ground_1|Campo de Treino
-p_training_ground_2|Campo de Treino
-p_training_ground_3|Campo de Treino
-p_training_ground_4|Campo de Treino
-p_training_ground_5|Campo de Treino
+p_four_ways_inn|Pousada das Quatro Direções
+p_test_scene|Zona de teste
+p_battlefields|Campos de batalha
+p_dhorak_keep|Forte Dhorak
+p_training_ground|Campo de treino
+p_training_ground_1|Campo de treino
+p_training_ground_2|Campo de treino
+p_training_ground_3|Campo de treino
+p_training_ground_4|Campo de treino
+p_training_ground_5|Campo de treino
+p_steppe_bandit_spawn_point|A estepe
+p_taiga_bandit_spawn_point|A tundra
+p_forest_bandit_spawn_point|O bosque
+p_mountain_bandit_spawn_point|As terras altas
+p_sea_raider_spawn_point_1|A costa
+p_sea_raider_spawn_point_2|A costa
+p_desert_bandit_spawn_point|O deserto
