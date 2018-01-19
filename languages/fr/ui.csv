@@ -606,35 +606,35 @@ ui_m_ultra_high2|Ultra High
 ui_off2|Off
 ui_group_header|Class of troop
 ui_group_rename|Rename group
-ui_group_1|Infantry
-ui_group_2|Archers
-ui_group_3|Cavalry
-ui_group_4|Unnamed 1
-ui_group_5|Unnamed 2
-ui_group_6|Unnamed 3
-ui_group_7|Unnamed 4
-ui_group_8|Unnamed 5
-ui_group_9|Unnamed 6
+ui_group_1|Infantaria
+ui_group_2|Arqueiros
+ui_group_3|Cavalaria
+ui_group_4|Sem nome 1
+ui_group_5|Sem nome 2
+ui_group_6|Sem nome 3
+ui_group_7|Sem nome 4
+ui_group_8|Sem nome 5
+ui_group_9|Sem nome 6
 ui_group_rename|Renomear grupo
 ui_group_close|Fechar
 ui_party_b_group_information|%s pertence ao %s grupo
 ui_thrown_or_s|Thrown/%s
 ui_ranged_damage|Ranged: %d%s
-ui_overall_quality|Overall Quality
+ui_overall_quality|Qualidade geral
 ui_shader_quality|Shader Quality:
-ui_flora_lod_detail|Tree Detail:
-ui_flora_degrade_distance|Tree Degrade Distance:
+ui_flora_lod_detail|Detalhe da árvore:
+ui_flora_degrade_distance|Distância de degradação da árvore:
 ui_antialiasing|AntiAliasing:
-ui_use_depth_effects|Use Depth Effects
+ui_use_depth_effects|Use efeitos de profundidade
 ui_hdr_mode|HDR Mode:
-ui_autoexpore|Auto-exposure
-ui_choose_profile|Choose Profile
+ui_autoexpore|Exposição automática
+ui_choose_profile|Escolha o Perfil
 ui_create|Criar
 ui_edit|Editar
-ui_join_game|Join a Game
-ui_host_game|Host a Game
-ui_custom|Custom
-ui_medium|Medium
+ui_join_game|Entrar em um jogo
+ui_host_game|Hospedar um jogo
+ui_custom|Personalizado
+ui_medium|Médio
 ui_male|Masculino
 ui_female|Feminino
 ui_gender|Escolher um gênero:
@@ -646,7 +646,7 @@ ui_confirmation|Tem certeza?
 ui_multiplayer|Multiplayer
 ui_server_name|Servidor
 ui_module_name|Módulo
-ui_game_type|Game Type
+ui_game_type|Tipo de jogo
 ui_map_name|Mapa
 ui_ping|Ping
 ui_dedicated|Dedicado
@@ -666,89 +666,89 @@ ui_use_speedtree|Use Speedtree
 ui_use_instancing|Use Instancing
 ui_error|Erro
 ui_error_server_full|Servidor está cheio.
-ui_error_server_full_for_non_private|Server is full for players without a private member password.
+ui_error_server_full_for_non_private|O servidor está cheio para jogadores sem uma senha de membro privado.
 ui_error_server_password_incorrect|Senha incorreta.
 ui_error_incorrect_serial|Serial incorreto.
-ui_error_incorrect_authorization_key|Incorrect authorization key.
-ui_error_banned_from_server|You are banned from this server.
-ui_error_username_taken|Your profile name is used by another player.
-ui_error_authentication_failed|Authentication failed.
-ui_unable_to_connect_to_server|Unable to connect to server.
-ui_connection_to_server_is_lost|Connection to server is lost.
-ui_kicked_from_server|Kicked from server.
-ui_switch_to_module_question|This server is running another module than the one you are currently running. Do you want Mount&Blade to switch to this module?
-ui_download_module_question|This server is running a module that is not installed on your computer. Would you like to visit the download site for this module now?
-ui_download_mb_new_version_question|This server is running a newer version (%d.%d%d%d) of Mount&Blade than the one you are currently running (%d.%d%d%d). Would you like to visit TaleWorlds download site now?
-ui_download_mb_old_version_question|This server is running an older version (%d.%d%d%d) of Mount&Blade and than the one you are currently running (%d.%d%d%d).
-ui_download_module_new_version_question|This server is running a newer version (%d.%d%d%d) of the current module than the one you are running (%d.%d%d%d). Would you like to visit the download site for this module now?
-ui_download_module_old_version_question|This server is running an older version (%d.%d%d%d) of the current module than the one you are running (%d.%d%d%d).
-ui_authenticating_with_steam|Authenticating with Steam...
-ui_validating_serial_number|Validating serial number...
-ui_scanning_lan|Scanning local area network...
-ui_retrieving_servers|Retrieving server list...
+ui_error_incorrect_authorization_key|Chave de autorização incorreta.
+ui_error_banned_from_server|Você está banido deste servidor.
+ui_error_username_taken|O nome do seu perfil é usado por outro jogador.
+ui_error_authentication_failed|Falha na autenticação.
+ui_unable_to_connect_to_server|Não é possível se conectar ao servidor.
+ui_connection_to_server_is_lost|A conexão ao servidor está perdida.
+ui_kicked_from_server|Kickado do servidor.
+ui_switch_to_module_question|Este servidor está executando outro módulo do que o que você está executando. Deseja que o Mount&Blade mude para este módulo?
+ui_download_module_question|Este servidor está executando um módulo que não está instalado no seu computador. Gostaria de visitar o site de download deste módulo agora?
+ui_download_mb_new_version_question|Este servidor está executando uma versão mais recente (%d.%d%d%d) de  do que aquele que você está executando (%d.%d%d%d). Gostaria de visitar o site de download do TaleWorlds agora?
+ui_download_mb_old_version_question|Este servidor está executando uma versão mais antiga (%d.%d%d%d) de do que você está executando (%d.%d%d%d).
+ui_download_module_new_version_question|Este servidor está executando uma versão mais recente (%d.%d%d%d) do módulo atual do que aquele que você está executando (%d.%d%d%d). Gostaria de visitar o site de download deste módulo agora?
+ui_download_module_old_version_question|Este servidor está executando uma versão mais antiga (%d.%d%d%d) do módulo atual do que aquele que você está executando (%d.%d%d%d).
+ui_authenticating_with_steam|Autenticando com a Steam...
+ui_validating_serial_number|Validando o número de série...
+ui_scanning_lan|Escaneando a rede de área local...
+ui_retrieving_servers|Recuperando a lista de servidores...
 ui_shield_size2|Tamanho: %dx%d
-ui_click_to_view_notes|Click to view notes
-ui_retrieving_server_infos|Retrieving information from servers (%d)...
+ui_click_to_view_notes|Clique para ver as notas
+ui_retrieving_server_infos|Recuperando informações dos servidores (%d)...
 ui_connecting_to_server|Conectando ao servidor...
-ui_requesting_to_join_the_game|Requesting to join the game...
+ui_requesting_to_join_the_game|Solicitando para entrar no jogo...
 ui_loading|Carregando...
-ui_group_value_control|Group %d!
+ui_group_value_control|Grupo %d!
 ui_drop_weapon|Jogar fora a arma
-ui_multiplayer_message_all|Send Message to Everyone
-ui_multiplayer_message_team|Send Message to Team
-ui_command_line|Command Line
+ui_multiplayer_message_all|Enviar mensagem a todos
+ui_multiplayer_message_team|Enviar mensagem para a equipe
+ui_command_line|Linha de comando
 ui_use_ranged_weapon_as_melee|Toggle Weapon Mode
-ui_send_message_all|Send Message to Everyone
-ui_send_message_team|Send Message to Team
+ui_send_message_all|Enviar mensagem a todos
+ui_send_message_team|Enviar mensagem para a equipe
 ui_select|Selecionar
-ui_context_menu|Context Menu
-ui_round_starts_in_value_seconds|Round starts in %d seconds...
-ui_watching_value|Following %s
-ui_capital_spec|SPEC
-ui_capital_dead|DEAD
+ui_context_menu|Menu contextual
+ui_round_starts_in_value_seconds|Round começa em %d segundos...
+ui_watching_value|Seguindo %s
+ui_capital_spec|ESPEC
+ui_capital_dead|MORTO
 ui_instancing_error1|Could not lock Instance Buffer (size: %d), Disabled mesh-instancing (Error Code: %d)
 ui_instancing_error2|Could not fit instanced objects, Disabled mesh-instancing
-ui_by_keyboard|By movement keys
-ui_combat_speed_slowest|Slowest
-ui_combat_speed_slower|Slower
+ui_by_keyboard|Por teclas de movimento
+ui_combat_speed_slowest|Muito devagar
+ui_combat_speed_slower|Devagar
 ui_combat_speed_normal|Normal
-ui_combat_speed_faster|Faster
-ui_combat_speed_fastest|Fastest
-ui_module_newer_than_application|The module you have selected requires a newer version of the game.
-ui_module_older_than_application|The module you have selected requires an older version of the game.
-ui_unbalanced|Unbalanced
-ui_can_crush_through_blocks|Can crush through blocks
-ui_turn_camera_with_horse|Turn Camera with Horse in First Person:
-ui_widescreen_mode_on|Multiple Screen Mode Enabled
-ui_widescreen_mode_off|Multiple Screen Mode Disabled
-ui_notification_cant_upgrade|(Can't upgrade: not enough money)
+ui_combat_speed_faster|Rápido
+ui_combat_speed_fastest|Muito rápido
+ui_module_newer_than_application|O módulo que você selecionou requer uma versão mais recente do jogo.
+ui_module_older_than_application|O módulo que você selecionou requer uma versão mais antiga do jogo.
+ui_unbalanced|Desequilibrado
+ui_can_crush_through_blocks|Pode atravessar blocos
+ui_turn_camera_with_horse|Vire a câmera com cavalo em primeira pessoa:
+ui_widescreen_mode_on|Modo de tela múltipla ativado
+ui_widescreen_mode_off|Modo de tela múltipla desativado
+ui_notification_cant_upgrade|(Não é possível atualizar: dinheiro insuficiente)
 ui_turn_never|Nunca
-ui_turn_ranged_only|Ranged only
-ui_turn_melee_only|Melee only
+ui_turn_ranged_only|Apenas a distância
+ui_turn_melee_only|Apenas corpo a corpo
 ui_turn_always|Sempre
-ui_general_options|General Options
-ui_vac_enabled|Valve Anti Cheat Enabled
+ui_general_options|Opções gerais
+ui_vac_enabled|Valve Anti Cheat Habilitado
 ui_campaign_ai|Campaign AI:
 ui_downloading_map|Download do mapa em execução (%d KB)
 ui_download_completed|Download completo.
-ui_server_filter|Server filter
-ui_has_players|Has players
-ui_is_not_full|Not full
+ui_server_filter|Filtro de servidor
+ui_has_players|Tem jogadores
+ui_is_not_full|Não cheio
 ui_is_password_free|Sem senha
-ui_native_only|Native only
-ui_ping_limit|Ping limit
-ui_filter_info|%d games and %d players filtered
-ui_is_version_compatible|Compatible with module
+ui_native_only|Native apenas
+ui_ping_limit|Limite de ping
+ui_filter_info|%d jogos e %d jogadores filtrados
+ui_is_version_compatible|Compatível com o módulo
 ui_ttnet_account|TTNET Oyun account
 ui_username|Usuário
 ui_password|Senha
 ui_error_incorrect_username_or_password|Usuário ou senha incorretos
-ui_validating_account|Validating account...
-ui_plase_enter_your_serial_key|Please enter your serial key
-ui_texture_detail2|Texture Detail:
+ui_validating_account|Validando conta...
+ui_plase_enter_your_serial_key|Digite sua chave serial
+ui_texture_detail2|Detalhe de textura:
 ui_antialiasing2|Antialiasing:
-ui_napoleonic_key_does_not_exist|This mod requires the Napoleonic Wars DLC to play!
-ui_delete_module_workshop|Are you sure you want to unsubscribe from this module?
-ui_delete_module|Are you sure you want to delete the module?
-ui_delete_native_module|You cannot delete native mods.
-ui_incompatible_module|This server is incompatible with your current module. You can use the configuration utility to change module.
+ui_napoleonic_key_does_not_exist|Esta modificação requer Napoleonic Wars DLC para jogar!
+ui_delete_module_workshop|Tem certeza de que deseja se desinscrever deste módulo?
+ui_delete_module|Tem certeza de que deseja excluir o módulo?
+ui_delete_native_module|Você não pode excluir mods nativos.
+ui_incompatible_module|Este servidor é incompatível com o seu módulo atual. Você pode usar o utilitário de configuração para mudar o módulo.
